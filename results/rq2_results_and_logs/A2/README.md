@@ -52,3 +52,7 @@ results/rq2_results_and_logs/A2/
 | `reports/passed_cells.json` | Every passing cell per scenario: `cell` (`Sheet!A1`), `expected` (Excel), `actual` (Java). `run_log` names the source log.                                                  |
 | `reports/failed_cells.json` | Failing cells per scenario with `expected`, `actual` and `failure_reason` (e.g. `numeric_tolerance_exceeded`, `date_mismatch`, `missing_output`).                           |
 | `logs/*.jsonl`              | Event log, one JSON object per line: `run_start`, one `test_set_result` per scenario (`passed`, `failing_cells_count`, `per_cell_pass_rate`, `per_cell_detail`), `run_end`. |
+
+### Note
+
+For gaulEngine (held-out), reports/passed_cells.json and the .jsonl event log are zipped (\*.zip) because they exceed GitHub's 100 MB file limit. Unzip them before use.

@@ -100,7 +100,7 @@ Held-out pass rates were **47.7% (A1)**, **89.2% (A2)** and **100% (Ours)**.
 
 ### RQ2: Failure characteristics (Table II)
 
-The 79 baseline held-out failures trace back to just **13 root defects**: 7 in A1 and 6 in A2. Per-failure labels are in [`analysis/defect_labels.xlsx`](analysis/defect_labels.xlsx); the underlying failing cells are in the A1 comparison reports and the A2 `reports/failed_cells.json` under [`results/rq2_results_and_logs/`](results/rq2_results_and_logs/).
+The 79 baseline held-out failures trace back to just **13 root defects**: 7 in A1 and 6 in A2. Per-failure labels are in [`analysis/Defect_Analysis_RQ2.xlsx`](analysis/Defect_Analysis_RQ2.xlsx); the underlying failing cells are in the A1 comparison reports and the A2 `reports/failed_cells.json` under [`results/rq2_results_and_logs/`](results/rq2_results_and_logs/).
 
 | ID  | Defect category                  | Mode   | A1     | A2     |
 | --- | -------------------------------- | ------ | ------ | ------ |
@@ -140,7 +140,7 @@ CAIN27_validation_artifacts/
 │   ├── A2/Prompt_Templates.md             S1–S6 synthesis, R0–R4 repair, configuration
 │   └── Ours/Prompt_Templates.md           T1–T2 synthesis, T3–T4 repair, placeholders, limits
 ├── analysis/
-│   └── defect_labels.xlsx                 RQ2 root-defect label for each baseline held-out failure
+│   └── Defect_Analysis_RQ2.xlsx                 RQ2 root-defect label for each baseline held-out failure
 └── results/
     ├── rq1_results_and_logs/
     │   └── Ours/                          Ours, Table III
@@ -172,7 +172,7 @@ Each results folder has its own `README.md` describing its file formats.
 | III (P/F, held-out) | A1            | `results/rq2_results_and_logs/A1/OutLoopResults/<wb>/final_logs.json`, same fields                                                                                                                          |
 | III                 | A2            | `results/rq2_results_and_logs/A2/{in_loop,out_loop}/runs/<wb>/summary.json` → `test_sets_passed` / `test_sets_total`                                                                                        |
 | III                 | Ours          | `results/rq1_results_and_logs/Ours/{in_loop,out_loop}/<wb>/output/*_diff_set_<n>.csv`: a scenario passes if every row with `scn_id = set_<n>` has `status = MATCH`                                          |
-| II                  | A1, A2        | `analysis/defect_labels.xlsx`                                                                                                                                                                               |
+| II                  | A1, A2        | `analysis/Defect_Analysis_RQ2.xlsx`                                                                                                                                                                         |
 | IV                  | Ours variants | `results/rq3_ablation_study/<variant>/<wb>/logs/summary.txt` → `Final status`, `total_tokens`, `Overall Repairs`, `[TIME]` lines; full-pipeline reference from `results/rq1_results_and_logs/Ours/in_loop/` |
 
 > **A2 logs:** Each A2 workbook folder contains the single event log from which `summary.json` and `reports/` were produced, i.e. the reported run.

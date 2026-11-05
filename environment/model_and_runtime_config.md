@@ -39,15 +39,13 @@ This file lists the shared setup and the approach-specific settings used for all
 
 ### A1: Global agentic repair
 
-| Item             | Setting                                                                                                                                                                      |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Prompts          | [`prompts/A1/`](../prompts/A1/README.md): P1 system, P2 initial generation, P3 compile repair, P4 unmatched repair, P5 counterexample repair                                 |
-| Output           | One self-contained Java program (`WorkbookProgram`), run once per scenario with runtime input overrides                                                                      |
-| Repair scope     | Whole program: regenerated from compiler errors (P3), from cell mismatches when no scenario passes (P4), or from up to 3 passing and 3 failing scenarios when some pass (P5) |
-| Repair budget    | Until all in-loop scenarios pass or the repair budget is exhausted; the attempts used are recorded in `final_logs.json` (`repair_attempts`, 0–3 across workbooks)            |
-| Recorded metrics | `final_logs.json`: `total_tokens`, `time_in_sec`, `repair_attempts`, pass counts                                                                                             |
-
-<!-- TODO: state A1's maximum number of repair attempts -->
+| Item             | Setting                                                                                                                                                                             |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Prompts          | [`prompts/A1/`](../prompts/A1/README.md): P1 system, P2 initial generation, P3 compile repair, P4 unmatched repair, P5 counterexample repair                                        |
+| Output           | One self-contained Java program (`WorkbookProgram`), run once per scenario with runtime input overrides                                                                             |
+| Repair scope     | Whole program: regenerated from compiler errors (P3), from cell mismatches when no scenario passes (P4), or from up to 3 passing and 3 failing scenarios when some pass (P5)        |
+| Repair budget    | Until all in-loop scenarios pass or the repair budget is exhausted; the attempts used are recorded in `final_logs.json` (`repair_attempts`: Maximum of 7 attempts per repair type). |
+| Recorded metrics | `final_logs.json`: `total_tokens`, `time_in_sec`, `repair_attempts`, pass counts                                                                                                    |
 
 ### A2: Role-specialized agentic workflow
 

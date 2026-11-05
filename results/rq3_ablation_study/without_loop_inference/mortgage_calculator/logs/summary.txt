@@ -1,0 +1,36 @@
+# Summary for output\result_1791043027/mortgage_calculator/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 3
+	- prompt_tokens: 110263
+	- response_tokens: 7376
+	- total_tokens: 117639
+	- average_prompt_tokens: 36754.33
+	- average_response_tokens: 2458.67
+	- average_total_tokens: 39213.0
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Calculator:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 2
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'Code Generation': 2}
+## Overall Repairs: 0
+## Detailed Repairs: {}
+─────────────────────────
+# Scenarios validation summary
+	-calculator: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 127.71 seconds
+[TIME]: Seed Synthesis time: 62.70 seconds
+[TIME]: Validation on scenarios time: 30.11 seconds
+[TIME]: Total: [127.71, 62.70, 30.11]

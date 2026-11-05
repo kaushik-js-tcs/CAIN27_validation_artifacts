@@ -1,0 +1,43 @@
+# Summary for output\result_1791045366/sip_cal/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 9
+	- prompt_tokens: 225891
+	- response_tokens: 15505
+	- total_tokens: 241396
+	- average_prompt_tokens: 25099.0
+	- average_response_tokens: 1722.78
+	- average_total_tokens: 26821.78
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Xlfunc Generation:
+	- total_rows 4
+	- total_unique_modules 2
+	- repair_module_rows 1
+	- repair_modules {'semantic_repair_callback': 1}
+	- all_modules {'Code Generation': 3, 'semantic_repair_callback': 1}
+## Sheet_name output:
+	- total_rows 2
+	- total_unique_modules 2
+	- repair_module_rows 1
+	- repair_modules {'simple_repair': 1}
+	- all_modules {'code_generation': 1, 'simple_repair': 1}
+## Sheet_name sip:
+	- total_rows 3
+	- total_unique_modules 2
+	- repair_module_rows 2
+	- repair_modules {'simple_repair': 2}
+	- all_modules {'simple_repair': 2, 'code_generation': 1}
+## Overall Repairs: 4
+## Detailed Repairs: {'semantic_repair_callback': 1, 'simple_repair': 3}
+─────────────────────────
+# Scenarios validation summary
+	-output: 0 -> []
+	-sip: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 207.10 seconds
+[TIME]: Seed Synthesis time: 195.07 seconds
+[TIME]: Validation on scenarios time: 57.99 seconds
+[TIME]: Total: [207.10, 195.07, 57.99]

@@ -1,0 +1,212 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791113680"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 9"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 8 out of 9"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 9 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Quarterly Fee Calculation",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Quarterly Fee Calculation",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Prorata deduction",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Prorata deduction",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "SP&EWA&OR",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "SP&EWA&OR",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Fund Transfer Adj",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Fund Transfer Adj",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Rider Termination",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Rider Termination",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Quarterly Fee Calculation",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "quarterly_fee_calculation",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "SP&EWA&OR",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "sp_ewa_or",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Fund Transfer Adj",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 19,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "fund_transfer_adj",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 20,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Rider Termination",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 21,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "rider_termination",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 22,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Prorata deduction",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 23,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "prorata_deduction",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 24,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Quarterly Fee Calculation",
+        "remarks": "Validating scenarios for quarterly_fee_calculation"
+    },
+    {
+        "id": 25,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Quarterly Fee Calculation",
+        "remarks": "[SUCCESS] Passed all scenarios for quarterly_fee_calculation"
+    },
+    {
+        "id": 26,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "SP&EWA&OR",
+        "remarks": "Validating scenarios for sp_ewa_or"
+    },
+    {
+        "id": 27,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "SP&EWA&OR",
+        "remarks": "[SUCCESS] Passed all scenarios for sp_ewa_or"
+    },
+    {
+        "id": 28,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Fund Transfer Adj",
+        "remarks": "Validating scenarios for fund_transfer_adj"
+    },
+    {
+        "id": 29,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Fund Transfer Adj",
+        "remarks": "[SUCCESS] Passed all scenarios for fund_transfer_adj"
+    },
+    {
+        "id": 30,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Rider Termination",
+        "remarks": "Validating scenarios for rider_termination"
+    },
+    {
+        "id": 31,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Rider Termination",
+        "remarks": "[SUCCESS] Passed all scenarios for rider_termination"
+    },
+    {
+        "id": 32,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Prorata deduction",
+        "remarks": "Validating scenarios for prorata_deduction"
+    },
+    {
+        "id": 33,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Prorata deduction",
+        "remarks": "[SUCCESS] Passed all scenarios for prorata_deduction"
+    },
+    {
+        "id": 34,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791113680/logs/summary.txt"
+    }
+]

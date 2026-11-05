@@ -1,0 +1,8 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Rider Termination,B,2,XlNumber,40000.0,40000.0,MATCH,normal_cell,set_0
+Rider Termination,B,3,XlNumber,0.02925,0.02925,MATCH,normal_cell,set_0
+Rider Termination,B,4,XlNumber,24.0,24.0,MATCH,normal_cell,set_0
+Rider Termination,B,5,XlNumber,365.0,365.0,MATCH,normal_cell,set_0
+Rider Termination,B,6,XlNumber,-23.08,-23.08,MATCH,normal_cell,set_0
+Rider Termination,B,7,XlNumber,-9.86,-9.86,MATCH,normal_cell,set_0
+Rider Termination,B,8,XlNumber,-10.68,-10.68,MATCH,normal_cell,set_0

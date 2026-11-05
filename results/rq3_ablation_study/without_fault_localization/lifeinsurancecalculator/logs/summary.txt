@@ -1,0 +1,50 @@
+# Summary for output\result_1791027016/lifeinsurancecalculator/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 18
+	- prompt_tokens: 82432
+	- response_tokens: 42180
+	- total_tokens: 124612
+	- average_prompt_tokens: 4579.56
+	- average_response_tokens: 2343.33
+	- average_total_tokens: 6922.89
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Cash Value:
+	- total_rows 5
+	- total_unique_modules 3
+	- repair_module_rows 3
+	- repair_modules {'loop_bound_repair': 3}
+	- all_modules {'loop_bound_repair': 3, 'loop_enchancement': 1, 'code_generation': 1}
+## Sheet_name Output:
+	- total_rows 4
+	- total_unique_modules 3
+	- repair_module_rows 2
+	- repair_modules {'loop_bound_repair': 2}
+	- all_modules {'loop_bound_repair': 2, 'loop_enchancement': 1, 'code_generation': 1}
+## Sheet_name Premium:
+	- total_rows 2
+	- total_unique_modules 2
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'loop_enchancement': 1, 'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 7
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'Code Generation': 7}
+## Overall Repairs: 5
+## Detailed Repairs: {'loop_bound_repair': 5}
+─────────────────────────
+# Scenarios validation summary
+	-cash_value_A_2_R_100: 0 -> []
+	-output_A_2_H_87: 0 -> []
+	-premium_A_2_L_100: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 432.12 seconds
+[TIME]: Seed Synthesis time: 178.81 seconds
+[TIME]: Validation on scenarios time: 886.73 seconds
+[TIME]: Total: [432.12, 178.81, 886.73]

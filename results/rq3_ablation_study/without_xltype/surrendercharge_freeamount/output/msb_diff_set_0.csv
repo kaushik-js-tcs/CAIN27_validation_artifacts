@@ -1,0 +1,6 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+MSB,B,3,xltype,Yes,NO_OUTPUT,MISMATCH,mismatch,set_0
+MSB,B,13,xltype,74000,NO_OUTPUT,MISMATCH,mismatch,set_0
+MSB,B,9,xltype,74000,NO_OUTPUT,MISMATCH,mismatch,set_0
+MSB,B,4,xltype,80000,NO_OUTPUT,MISMATCH,mismatch,set_0
+MSB,B,5,xltype,6000,NO_OUTPUT,MISMATCH,mismatch,set_0

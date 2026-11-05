@@ -1,0 +1,308 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791018314"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 6"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 6 out of 6"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 6 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[SUCCESS] found 1 blocks."
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "separate_account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 19,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "fixed_account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 20,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 21,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "mrcv_A_13_H_850",
+        "remarks": "[FAIL]"
+    },
+    {
+        "id": 22,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 23,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "policy_value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 24,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 25,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "adjusted_policy_value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 26,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 27,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 28,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "Validating scenarios for separate_account"
+    },
+    {
+        "id": 29,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[FAILED] Validation failed repairing separate_account"
+    },
+    {
+        "id": 30,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[FAILED] Validation failed repairing separate_account"
+    },
+    {
+        "id": 31,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[FAILED] Validation failed repairing separate_account"
+    },
+    {
+        "id": 32,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[FAILED] Validation failed repairing separate_account"
+    },
+    {
+        "id": 33,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS] Passed all scenarios for separate_account"
+    },
+    {
+        "id": 34,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "Validating scenarios for fixed_account"
+    },
+    {
+        "id": 35,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS] Passed all scenarios for fixed_account"
+    },
+    {
+        "id": 36,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "Validating scenarios for mrcv_A_13_H_850"
+    },
+    {
+        "id": 37,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 38,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 39,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 40,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 41,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 42,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 43,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv_A_13_H_850"
+    },
+    {
+        "id": 44,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "Validating scenarios for policy_value"
+    },
+    {
+        "id": 45,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS] Passed all scenarios for policy_value"
+    },
+    {
+        "id": 46,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "Validating scenarios for adjusted_policy_value"
+    },
+    {
+        "id": 47,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS] Passed all scenarios for adjusted_policy_value"
+    },
+    {
+        "id": 48,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "Validating scenarios for cash_value"
+    },
+    {
+        "id": 49,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS] Passed all scenarios for cash_value"
+    },
+    {
+        "id": 50,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791018314/logs/summary.txt"
+    }
+]

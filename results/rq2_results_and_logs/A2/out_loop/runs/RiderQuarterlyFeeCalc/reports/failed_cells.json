@@ -1,0 +1,933 @@
+{
+  "workbook_id": "RiderQuarterlyFeeCalc",
+  "run_log": "C:\\Users\\2516310\\Desktop\\workspace\\namans_tool\\new_runs\\out_loop\\runs\\RiderQuarterlyFeeCalc\\logs\\RiderQuarterlyFeeCalc_20261104T084542.jsonl",
+  "total_failed_cells": 153,
+  "by_test_set": {
+    "set_20": [
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 17.59,
+        "actual": 19.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 34982.41,
+        "actual": 34980.38,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 23.543262000000002,
+        "actual": 23.459562000000002,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 273.91,
+        "actual": 271.88,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 544726.09,
+        "actual": 544728.12,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 17.59,
+        "actual": 19.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 34982.41,
+        "actual": 34980.38,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 0.7248,
+        "actual": 0.8085,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 17.59,
+        "actual": 19.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 273.91,
+        "actual": 271.88,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 544726.09,
+        "actual": 544728.12,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 273.91,
+        "actual": 325.17,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 18000,
+        "actual": null,
+        "failure_reason": "missing_output"
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": null,
+        "failure_reason": "missing_output"
+      }
+    ],
+    "set_21": [
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 90,
+        "actual": 92.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B5",
+        "expected": 365,
+        "actual": 366.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 999.15,
+        "actual": 1018.56,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 282.08,
+        "actual": 287.56,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 305.95,
+        "actual": 311.9,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2021-01-02 00:00:00",
+        "actual": 44109.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2021-04-02 00:00:00",
+        "actual": 44201.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2021-04-01 00:00:00",
+        "actual": 44200.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 305.95,
+        "actual": 311.9,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 8.31,
+        "actual": 8.48,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 24991.69,
+        "actual": 24991.52,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 8.65,
+        "actual": 8.81,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 25991.35,
+        "actual": 25991.19,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 15.96,
+        "actual": 17.23,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 47984.04,
+        "actual": 47982.77,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 20.580678,
+        "actual": 20.521178,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 273.03,
+        "actual": 277.38,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 820726.97,
+        "actual": 820722.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 305.95,
+        "actual": 311.9,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 8.31,
+        "actual": 8.48,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 24991.69,
+        "actual": 24991.52,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 8.31,
+        "actual": 8.48,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 8.65,
+        "actual": 8.81,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 25991.35,
+        "actual": 25991.19,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 8.65,
+        "actual": 8.81,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 15.96,
+        "actual": 17.23,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 47984.04,
+        "actual": 47982.77,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 0.7483,
+        "actual": 0.8078,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 15.96,
+        "actual": 17.23,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 273.03,
+        "actual": 277.38,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 820726.97,
+        "actual": 820722.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 273.03,
+        "actual": 311.9,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 305.95,
+        "actual": 311.9,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 1089694.05,
+        "actual": 1089688.1,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 28000,
+        "actual": null,
+        "failure_reason": "missing_output"
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": null,
+        "failure_reason": "missing_output"
+      }
+    ],
+    "set_22": [
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 92,
+        "actual": 91.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B5",
+        "expected": 366,
+        "actual": 365.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 373.19,
+        "actual": 370.14,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 213.56,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 222.46,
+        "actual": 220.64,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2023-06-02 00:00:00",
+        "actual": 45020.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2023-09-02 00:00:00",
+        "actual": 45111.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2024-03-01 00:00:00",
+        "actual": 45294.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 213.56,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 88.58999999999999,
+        "actual": -113.07999999999998,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 94911.41,
+        "actual": 95113.08,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E10",
+        "expected": 18.213591,
+        "actual": 27.296391,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 38.24,
+        "actual": 37.92,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 40961.76,
+        "actual": 40962.08,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E11",
+        "expected": 16.156249000000003,
+        "actual": 16.173849,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 30.78,
+        "actual": 75.16,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 32969.22,
+        "actual": 32924.84,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 14.992689,
+        "actual": 12.354489000000001,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 55.95,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 59944.05,
+        "actual": 59788.18,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 213.56,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 88.58999999999999,
+        "actual": -113.07999999999998,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 94911.41,
+        "actual": 95113.08,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E23",
+        "expected": 3.9899,
+        "actual": -5.0929,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 88.59,
+        "actual": 87.87,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 38.24,
+        "actual": 37.92,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 40961.76,
+        "actual": 40962.08,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E24",
+        "expected": 2.0952,
+        "actual": 2.0776,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 38.24,
+        "actual": 37.92,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 30.78,
+        "actual": 75.16,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 32969.22,
+        "actual": 32924.84,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 1.8297,
+        "actual": 4.4679,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 30.78,
+        "actual": 75.16,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 55.95,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 59944.05,
+        "actual": 59788.18,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 55.95,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 213.56,
+        "actual": 211.82,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 341786.44,
+        "actual": 341788.18,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 11000,
+        "actual": null,
+        "failure_reason": "missing_output"
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": null,
+        "failure_reason": "missing_output"
+      },
+      {
+        "cell": "Fund Transfer Adj!B6",
+        "expected": 29,
+        "actual": 176.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Fund Transfer Adj!B8",
+        "expected": 52.37479452054795,
+        "actual": 317.86,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B4",
+        "expected": 58,
+        "actual": 295.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B6",
+        "expected": -207.83,
+        "actual": -1057.07,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B7",
+        "expected": -54.08,
+        "actual": -275.04,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B8",
+        "expected": -58.03,
+        "actual": -295.16,
+        "failure_reason": "numeric_tolerance_exceeded"
+      }
+    ],
+    "set_23": [
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 92,
+        "actual": 91.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 1002.46,
+        "actual": 991.57,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 598.88,
+        "actual": 592.37,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 607.96,
+        "actual": 601.35,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2021-10-02 00:00:00",
+        "actual": 44294.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2022-01-02 00:00:00",
+        "actual": 44385.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2022-07-01 00:00:00",
+        "actual": 44568.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 1002.46,
+        "actual": 991.57,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C8",
+        "expected": 0,
+        "actual": 109.41,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D8",
+        "expected": 79000,
+        "actual": 78890.59,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C9",
+        "expected": 100.72,
+        "actual": 0.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D9",
+        "expected": 63899.28,
+        "actual": 64000.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 29.9,
+        "actual": 26.31,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 18970.1,
+        "actual": 18973.69,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E10",
+        "expected": 14.768569000000001,
+        "actual": 14.985269,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 39.34,
+        "actual": 34.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 24960.66,
+        "actual": 24965.38,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E11",
+        "expected": 15.980569,
+        "actual": 16.240669,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 59.8,
+        "actual": 52.63,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 37940.2,
+        "actual": 37947.37,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 10.424356999999999,
+        "actual": 10.917556999999999,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 772.7,
+        "actual": 768.6,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 490227.3,
+        "actual": 490231.4,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 1002.46,
+        "actual": 991.57,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C21",
+        "expected": 0,
+        "actual": 109.41,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D21",
+        "expected": 79000,
+        "actual": 78890.59,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F21",
+        "expected": 0,
+        "actual": 109.41,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C22",
+        "expected": 100.72,
+        "actual": 0.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D22",
+        "expected": 63899.28,
+        "actual": 64000.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F22",
+        "expected": 100.72,
+        "actual": 0.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 29.9,
+        "actual": 26.31,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 18970.1,
+        "actual": 18973.69,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E23",
+        "expected": 1.8042,
+        "actual": 1.5875,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 29.9,
+        "actual": 26.31,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 39.34,
+        "actual": 34.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 24960.66,
+        "actual": 24965.38,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E24",
+        "expected": 2.1677,
+        "actual": 1.9076,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 39.34,
+        "actual": 34.62,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 59.8,
+        "actual": 52.63,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 37940.2,
+        "actual": 37947.37,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 4.1134,
+        "actual": 3.6202,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 59.8,
+        "actual": 52.63,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 772.7,
+        "actual": 768.6,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 490227.3,
+        "actual": 490231.4,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 772.7,
+        "actual": 679.97,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 1002.46,
+        "actual": 991.57,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 714997.54,
+        "actual": 715008.43,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "SP&EWA&OR!B5",
+        "expected": 52,
+        "actual": 22.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "SP&EWA&OR!B7",
+        "expected": -21.51,
+        "actual": -9.1,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "SP&EWA&OR!B8",
+        "expected": -12.82,
+        "actual": -5.42,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "SP&EWA&OR!B9",
+        "expected": -5.13,
+        "actual": -2.17,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 7000,
+        "actual": null,
+        "failure_reason": "missing_output"
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": null,
+        "failure_reason": "missing_output"
+      },
+      {
+        "cell": "Rider Termination!B4",
+        "expected": 26,
+        "actual": 233.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B6",
+        "expected": -38.36,
+        "actual": -343.79,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B7",
+        "expected": -12.31,
+        "actual": -110.31,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Rider Termination!B8",
+        "expected": -17.78,
+        "actual": -159.33,
+        "failure_reason": "numeric_tolerance_exceeded"
+      }
+    ]
+  }
+}

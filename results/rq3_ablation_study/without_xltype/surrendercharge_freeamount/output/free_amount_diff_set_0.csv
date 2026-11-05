@@ -1,0 +1,31 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Free Amount,B,4,xltype,N/A,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,6,xltype,11406.96,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,8,xltype,11406.96,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,18,xltype,Gains plus Percent of Prem,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,18,xltype,34266.075000000004,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,25,xltype,57034.785,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,24,xltype,44043,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,22,xltype,Free Amount Not Applicable,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,28,xltype,57034.785,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,21,xltype,Cumulative Free Percentage,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,7,xltype,0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,19,xltype,114069.57,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,34,xltype,57034.785,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,26,xltype,2002-12-30 00:00:00,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,8,xltype,Max Free Based on Policy Value,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,20,xltype,25399.020000000004,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,3,xltype,57034.79,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,31,xltype,11406.957000000002,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,20,xltype,Percent of Gross Prem -OR- Gains,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,30,xltype,11406.957000000002,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,13,xltype,25399.020000000004,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,17,xltype,Percent of PV -OR- Gains,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,16,xltype,Percent of PV,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,17,xltype,25399.020000000004,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,A,19,xltype,Percent of Prem -OR- Gains,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,16,xltype,11406.957000000002,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,29,xltype,0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,21,xltype,114069.57,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,22,xltype,0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Free Amount,B,32,xltype,1,NO_OUTPUT,MISMATCH,mismatch,set_0

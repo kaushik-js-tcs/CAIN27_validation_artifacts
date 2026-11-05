@@ -1,0 +1,42 @@
+{
+  "final_status": "PARTIAL_FAILURE",
+  "final_message": "8 of 19 scenarios passed Excel-vs-Java comparison.",
+  "compile_success": true,
+  "run_success": false,
+  "compare_success": false,
+  "scenario_total_count": 19,
+  "scenario_pass_count": 8,
+  "scenario_fail_count": 11,
+  "scenario_all_passed": false,
+  "scenario_some_passed": true,
+  "scenario_none_passed": false,
+  "passed_scenario_ids": [
+    "set_5",
+    "set_8",
+    "set_9",
+    "set_27",
+    "set_28",
+    "set_32",
+    "set_34",
+    "set_35"
+  ],
+  "failed_scenario_ids": [
+    "set_6",
+    "set_7",
+    "set_20",
+    "set_21",
+    "set_25",
+    "set_29",
+    "set_30",
+    "set_31",
+    "set_36",
+    "set_37",
+    "set_38"
+  ],
+  "matched_count": 17552,
+  "unmatched_count": 343,
+  "total_compared_count": 17895,
+  "time_in_sec": null,
+  "total_tokens": null,
+  "repair_attempts": null
+}

@@ -1,0 +1,5 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Contractural Interest,B,3,XlNumber,123.29,123.29,MATCH,normal_cell,set_37
+Contractural Interest,B,4,XlNumber,383.56,383.56,MATCH,normal_cell,set_37
+Contractural Interest,B,5,XlNumber,0.0,0.0,MATCH,normal_cell,set_37
+Contractural Interest,B,7,XlNumber,506.85,506.85,MATCH,normal_cell,set_37

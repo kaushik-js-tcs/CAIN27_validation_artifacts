@@ -1,0 +1,64 @@
+# Summary for output\result_1790958456/riderquarterlyfeecalc/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 21
+	- prompt_tokens: 73639
+	- response_tokens: 39207
+	- total_tokens: 112846
+	- average_prompt_tokens: 3506.62
+	- average_response_tokens: 1867.0
+	- average_total_tokens: 5373.62
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Fund Transfer Adj:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Prorata deduction:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Quarterly Fee Calculation:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Rider Termination:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name SP&EWA&OR:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 16
+	- total_unique_modules 2
+	- repair_module_rows 7
+	- repair_modules {'semantic_repair_callback': 7}
+	- all_modules {'Code Generation': 9, 'semantic_repair_callback': 7}
+## Overall Repairs: 7
+## Detailed Repairs: {'semantic_repair_callback': 7}
+─────────────────────────
+# Scenarios validation summary
+	-fund_transfer_adj: 0 -> []
+	-prorata_deduction: 0 -> []
+	-quarterly_fee_calculation: 0 -> []
+	-rider_termination: 0 -> []
+	-sp_ewa_or: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 754.35 seconds
+[TIME]: Seed Synthesis time: 249.55 seconds
+[TIME]: Validation on scenarios time: 164.28 seconds
+[TIME]: Total: [754.35, 249.55, 164.28]

@@ -1,0 +1,12 @@
+{
+  "workbook_id": "SurrenderCharge_FreeAmount",
+  "run_directory": "runs\\SurrenderCharge_FreeAmount",
+  "pass_rate": 1.0,
+  "test_sets_passed": 20,
+  "test_sets_total": 20,
+  "total_cells": 100,
+  "validated_cells": 100,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 34.838,
+  "llm_tokens_total": 0
+}

@@ -1,0 +1,9 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+SP&EWA&OR,B,2,XlNumber,40000.0,40000.0,MATCH,normal_cell,set_0
+SP&EWA&OR,B,3,XlNumber,-2000.0,-2000.0,MATCH,normal_cell,set_0
+SP&EWA&OR,B,4,XlNumber,0.02925,0.02925,MATCH,normal_cell,set_0
+SP&EWA&OR,B,5,XlNumber,24.0,24.0,MATCH,normal_cell,set_0
+SP&EWA&OR,B,6,XlNumber,365.0,365.0,MATCH,normal_cell,set_0
+SP&EWA&OR,B,7,XlNumber,-3.85,-3.85,MATCH,normal_cell,set_0
+SP&EWA&OR,B,8,XlNumber,-1.64,-1.64,MATCH,normal_cell,set_0
+SP&EWA&OR,B,9,XlNumber,-0.82,-0.82,MATCH,normal_cell,set_0

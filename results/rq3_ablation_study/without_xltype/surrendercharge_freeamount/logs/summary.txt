@@ -1,0 +1,57 @@
+# Summary for output\result_1791113691/surrendercharge_freeamount/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 247
+	- prompt_tokens: 698042
+	- response_tokens: 103950
+	- total_tokens: 801992
+	- average_prompt_tokens: 2826.08
+	- average_response_tokens: 420.85
+	- average_total_tokens: 3246.93
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Check Amount:
+	- total_rows 58
+	- total_unique_modules 2
+	- repair_module_rows 57
+	- repair_modules {'COMPILE_error_repair': 57}
+	- all_modules {'COMPILE_error_repair': 57, 'code_generation': 1}
+## Sheet_name Free Amount:
+	- total_rows 58
+	- total_unique_modules 2
+	- repair_module_rows 57
+	- repair_modules {'COMPILE_error_repair': 57}
+	- all_modules {'COMPILE_error_repair': 57, 'code_generation': 1}
+## Sheet_name MSB:
+	- total_rows 57
+	- total_unique_modules 2
+	- repair_module_rows 56
+	- repair_modules {'COMPILE_error_repair': 56}
+	- all_modules {'COMPILE_error_repair': 56, 'code_generation': 1}
+## Sheet_name Surrender Charge:
+	- total_rows 59
+	- total_unique_modules 3
+	- repair_module_rows 57
+	- repair_modules {'COMPILE_error_repair': 57}
+	- all_modules {'COMPILE_error_repair': 57, 'loop_enchancement': 1, 'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 15
+	- total_unique_modules 3
+	- repair_module_rows 3
+	- repair_modules {'semantic_repair_callback': 2, 'error_repair_callback': 1}
+	- all_modules {'Code Generation': 12, 'semantic_repair_callback': 2, 'error_repair_callback': 1}
+## Overall Repairs: 230
+## Detailed Repairs: {'COMPILE_error_repair': 227, 'semantic_repair_callback': 2, 'error_repair_callback': 1}
+─────────────────────────
+# Scenarios validation summary
+	-check_amount: 1 -> ['set_0']
+	-free_amount: 1 -> ['set_0']
+	-msb: 1 -> ['set_0']
+	-surrender_charge_A_26_Q_31: 1 -> ['set_0']
+Final status: 1
+─────────────────────────
+[TIME]: Preprocessing time: 570.30 seconds
+[TIME]: Seed Synthesis time: 489.20 seconds
+[TIME]: Validation on scenarios time: 2430.12 seconds
+[TIME]: Total: [570.30, 489.20, 2430.12]

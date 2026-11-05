@@ -1,0 +1,7 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Fund Transfer Adj,B,2,XlNumber,21000.0,21000.0,MATCH,normal_cell,set_6
+Fund Transfer Adj,B,3,XlNumber,0.0,0.0,MATCH,normal_cell,set_6
+Fund Transfer Adj,B,5,XlNumber,0.00053,0.00053,MATCH,normal_cell,set_6
+Fund Transfer Adj,B,6,XlNumber,16.0,16.0,MATCH,normal_cell,set_6
+Fund Transfer Adj,B,7,XlNumber,366.0,366.0,MATCH,normal_cell,set_6
+Fund Transfer Adj,B,8,XlNumber,1.992568306010929,1.99256830601093,MATCH,normal_cell,set_6

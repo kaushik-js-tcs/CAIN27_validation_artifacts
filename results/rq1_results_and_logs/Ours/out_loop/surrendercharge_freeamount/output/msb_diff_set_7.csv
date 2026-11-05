@@ -1,0 +1,6 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+MSB,B,3,XlText,Yes,Yes,MATCH,normal_cell,set_7
+MSB,B,4,XlNumber,80000,80000.0,MATCH,normal_cell,set_7
+MSB,B,5,XlNumber,6000,6000.0,MATCH,normal_cell,set_7
+MSB,B,9,XlNumber,74000,74000.0,MATCH,normal_cell,set_7
+MSB,B,13,XlNumber,74000,74000.0,MATCH,normal_cell,set_7

@@ -1,0 +1,116 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791112162"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 5"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 5 out of 5"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 5 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "States_Interest",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "States_Interest",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Contractural Interest",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Contractural Interest",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "State_Chart",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Tables",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "States_Interest",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "states_interest",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Contractural Interest",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "contractural_interest",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "States_Interest",
+        "remarks": "Validating scenarios for states_interest"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "States_Interest",
+        "remarks": "[SUCCESS] Passed all scenarios for states_interest"
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Contractural Interest",
+        "remarks": "Validating scenarios for contractural_interest"
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Contractural Interest",
+        "remarks": "[SUCCESS] Passed all scenarios for contractural_interest"
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791112162/logs/summary.txt"
+    }
+]

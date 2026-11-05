@@ -1,0 +1,69 @@
+{
+  "workbook_id": "PMI_DB_Life",
+  "run_log": "C:\\Users\\2516310\\Desktop\\workspace\\namans_tool\\new_runs\\out_loop\\runs\\PMI_DB_Life\\logs\\PMI_DB_Life_20261104T083725.jsonl",
+  "total_failed_cells": 8,
+  "by_test_set": {
+    "set_8": [
+      {
+        "cell": "States_Interest!B14",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ],
+    "set_9": [
+      {
+        "cell": "States_Interest!B14",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ],
+    "set_22": [
+      {
+        "cell": "States_Interest!B14",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ],
+    "set_25": [
+      {
+        "cell": "States_Interest!B14",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ],
+    "set_28": [
+      {
+        "cell": "States_Interest!B15",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      },
+      {
+        "cell": "States_Interest!B19",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ],
+    "set_29": [
+      {
+        "cell": "States_Interest!B14",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ],
+    "set_39": [
+      {
+        "cell": "States_Interest!B14",
+        "expected": "00:00:00",
+        "actual": "00:00:00",
+        "failure_reason": "expected_time_actual_unparseable"
+      }
+    ]
+  }
+}

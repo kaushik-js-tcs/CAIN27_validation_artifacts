@@ -1,0 +1,176 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791029307"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 12"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 12 out of 12"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 12 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Free Amount",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Free Amount",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Surrender Charge",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Surrender Charge",
+        "remarks": "[SUCCESS] found 1 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "MSB",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "MSB",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Check Amount",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Check Amount",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "MSB",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "msb",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Free Amount",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "free_amount",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Surrender Charge",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "surrender_charge_A_26_Q_31",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Check Amount",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 19,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "check_amount",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 20,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MSB",
+        "remarks": "Validating scenarios for msb"
+    },
+    {
+        "id": 21,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MSB",
+        "remarks": "[SUCCESS] Passed all scenarios for msb"
+    },
+    {
+        "id": 22,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Free Amount",
+        "remarks": "Validating scenarios for free_amount"
+    },
+    {
+        "id": 23,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Free Amount",
+        "remarks": "[SUCCESS] Passed all scenarios for free_amount"
+    },
+    {
+        "id": 24,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Surrender Charge",
+        "remarks": "Validating scenarios for surrender_charge_A_26_Q_31"
+    },
+    {
+        "id": 25,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Surrender Charge",
+        "remarks": "[SUCCESS] Passed all scenarios for surrender_charge_A_26_Q_31"
+    },
+    {
+        "id": 26,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Check Amount",
+        "remarks": "Validating scenarios for check_amount"
+    },
+    {
+        "id": 27,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Check Amount",
+        "remarks": "[SUCCESS] Passed all scenarios for check_amount"
+    },
+    {
+        "id": 28,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791029307/logs/summary.txt"
+    }
+]

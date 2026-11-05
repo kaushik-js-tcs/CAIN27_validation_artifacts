@@ -1,0 +1,12 @@
+{
+  "workbook_id": "mortgage_calculator",
+  "run_directory": "runs\\mortgage_calculator",
+  "pass_rate": 0.7368421052631579,
+  "test_sets_passed": 14,
+  "test_sets_total": 19,
+  "total_cells": 2159,
+  "validated_cells": 2159,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 18.626,
+  "llm_tokens_total": 0
+}

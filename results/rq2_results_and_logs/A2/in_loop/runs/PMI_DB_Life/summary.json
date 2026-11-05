@@ -1,0 +1,12 @@
+{
+  "workbook_id": "PMI_DB_Life",
+  "run_directory": "runs\\PMI_DB_Life",
+  "pass_rate": 1.0,
+  "test_sets_passed": 6,
+  "test_sets_total": 6,
+  "total_cells": 61,
+  "validated_cells": 61,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 17.761,
+  "llm_tokens_total": 0
+}

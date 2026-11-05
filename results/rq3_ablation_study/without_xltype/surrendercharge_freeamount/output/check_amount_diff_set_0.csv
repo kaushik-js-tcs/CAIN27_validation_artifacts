@@ -1,0 +1,11 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Check Amount,B,3,xltype,12500.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,5,xltype,48000.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,99,xltype,,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,13,xltype,35475.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,12,xltype,48000.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,6,xltype,35475.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,4,xltype,25.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,95,xltype,,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,10,xltype,12500.0,NO_OUTPUT,MISMATCH,mismatch,set_0
+Check Amount,B,11,xltype,25.0,NO_OUTPUT,MISMATCH,mismatch,set_0

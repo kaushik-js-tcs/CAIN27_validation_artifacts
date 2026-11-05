@@ -1,0 +1,12 @@
+{
+  "workbook_id": "PolicyValue_CashValue_MRCV_PremiumTax",
+  "run_directory": "runs\\PolicyValue_CashValue_MRCV_PremiumTax",
+  "pass_rate": 1.0,
+  "test_sets_passed": 22,
+  "test_sets_total": 22,
+  "total_cells": 7036,
+  "validated_cells": 7036,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 53.477,
+  "llm_tokens_total": 0
+}

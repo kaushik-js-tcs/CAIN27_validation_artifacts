@@ -1,0 +1,25 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Surrender Charge,A,34,XlText,Premium Age,Premium Age,MATCH,normal_cell,set_12
+Surrender Charge,A,35,XlText,Policy Age,Policy Age,MATCH,normal_cell,set_12
+Surrender Charge,A,36,XlText,Percent of Withdrawal,Percent of Withdrawal,MATCH,normal_cell,set_12
+Surrender Charge,B,3,XlNumber,305000,305000.0,MATCH,normal_cell,set_12
+Surrender Charge,B,4,XlNumber,305000,305000.0,MATCH,normal_cell,set_12
+Surrender Charge,B,5,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,6,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,7,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,8,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,12,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,13,XlNumber,320000,320000.0,MATCH,normal_cell,set_12
+Surrender Charge,B,14,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,15,XlNumber,320000,320000.0,MATCH,normal_cell,set_12
+Surrender Charge,B,16,XlNumber,305000,305000.0,MATCH,normal_cell,set_12
+Surrender Charge,B,17,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,18,XlNumber,305000,305000.0,MATCH,normal_cell,set_12
+Surrender Charge,B,19,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,20,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,B,21,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,F,24,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,I,24,XlText,,,MATCH,normal_cell,set_12
+Surrender Charge,J,24,XlNumber,0,0.0,MATCH,normal_cell,set_12
+Surrender Charge,K,24,XlText,,,MATCH,normal_cell,set_12
+Surrender Charge,K,25,XlText,Withdrawal Request After,Withdrawal Request After,MATCH,normal_cell,set_12

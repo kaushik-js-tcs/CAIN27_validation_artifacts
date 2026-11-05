@@ -1,0 +1,12 @@
+{
+  "workbook_id": "sip_cal",
+  "run_directory": "runs\\sip_cal",
+  "pass_rate": 1.0,
+  "test_sets_passed": 4,
+  "test_sets_total": 4,
+  "total_cells": 638,
+  "validated_cells": 638,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 8.035,
+  "llm_tokens_total": 0
+}

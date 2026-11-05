@@ -1,0 +1,31 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Free Amount,A,8,XlText,Max Free Based on Policy Value,Max Free Based on Policy Value,MATCH,normal_cell,set_9
+Free Amount,A,16,XlText,Percent of PV,Percent of PV,MATCH,normal_cell,set_9
+Free Amount,A,17,XlText,Percent of PV -OR- Gains,Percent of PV -OR- Gains,MATCH,normal_cell,set_9
+Free Amount,A,18,XlText,Gains plus Percent of Prem,Gains plus Percent of Prem,MATCH,normal_cell,set_9
+Free Amount,A,19,XlText,Percent of Prem -OR- Gains,Percent of Prem -OR- Gains,MATCH,normal_cell,set_9
+Free Amount,A,20,XlText,Percent of Gross Prem -OR- Gains,Percent of Gross Prem -OR- Gains,MATCH,normal_cell,set_9
+Free Amount,A,21,XlText,Cumulative Free Percentage,Cumulative Free Percentage,MATCH,normal_cell,set_9
+Free Amount,A,22,XlText,Free Amount Not Applicable,Free Amount Not Applicable,MATCH,normal_cell,set_9
+Free Amount,B,3,XlText,N/A,N/A,MATCH,normal_cell,set_9
+Free Amount,B,4,XlNumber,0,0.0,MATCH,normal_cell,set_9
+Free Amount,B,6,XlNumber,8775.08,8775.08,MATCH,normal_cell,set_9
+Free Amount,B,7,XlNumber,0,0.0,MATCH,normal_cell,set_9
+Free Amount,B,8,XlNumber,8775.08,8775.08,MATCH,normal_cell,set_9
+Free Amount,B,13,XlNumber,8500.899999999994,8500.899999999994,MATCH,normal_cell,set_9
+Free Amount,B,16,XlNumber,8775.080999999998,8775.080999999998,MATCH,normal_cell,set_9
+Free Amount,B,17,XlNumber,8775.080999999998,8775.080999999998,MATCH,normal_cell,set_9
+Free Amount,B,18,XlNumber,16510.899999999994,16510.899999999994,MATCH,normal_cell,set_9
+Free Amount,B,19,XlNumber,97500.9,97500.9,MATCH,normal_cell,set_9
+Free Amount,B,20,XlNumber,8500.899999999994,8500.899999999994,MATCH,normal_cell,set_9
+Free Amount,B,21,XlNumber,97500.9,97500.9,MATCH,normal_cell,set_9
+Free Amount,B,22,XlNumber,0,0.0,MATCH,normal_cell,set_9
+Free Amount,B,24,XlNumber,44038,44038.0,MATCH,normal_cell,set_9
+Free Amount,B,25,XlNumber,87750.81,87750.81,MATCH,normal_cell,set_9
+Free Amount,B,26,XlDateSerial,37620.0,37620.0,MATCH,normal_cell,set_9
+Free Amount,B,28,XlNumber,87750.81,87750.81,MATCH,normal_cell,set_9
+Free Amount,B,29,XlNumber,0,0.0,MATCH,normal_cell,set_9
+Free Amount,B,30,XlNumber,8775.080999999998,8775.080999999998,MATCH,normal_cell,set_9
+Free Amount,B,31,XlNumber,8775.080999999998,8775.080999999998,MATCH,normal_cell,set_9
+Free Amount,B,32,XlNumber,1,1.0,MATCH,normal_cell,set_9
+Free Amount,B,34,XlNumber,87750.81,87750.81,MATCH,normal_cell,set_9

@@ -1,0 +1,104 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791116311"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 3"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 3 out of 3"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 3 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "sip",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "sip",
+        "remarks": "[SUCCESS] found 1 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "output",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "output",
+        "remarks": "[SUCCESS] found 1 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "sip",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "sip_A_2_E_361",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "output",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "output_A_2_D_31",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "sip",
+        "remarks": "Validating scenarios for sip_A_2_E_361"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "sip",
+        "remarks": "[SUCCESS] Passed all scenarios for sip_A_2_E_361"
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "output",
+        "remarks": "Validating scenarios for output_A_2_D_31"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "output",
+        "remarks": "[SUCCESS] Passed all scenarios for output_A_2_D_31"
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791116311/logs/summary.txt"
+    }
+]

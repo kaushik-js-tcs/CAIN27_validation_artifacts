@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791023448"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 2"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 2 out of 2"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 2 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] found 1 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "calculator_A_3_F_362",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791023448/logs/summary.txt"
+    }
+]

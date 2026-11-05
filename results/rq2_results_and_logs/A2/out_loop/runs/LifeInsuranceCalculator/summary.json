@@ -1,0 +1,12 @@
+{
+  "workbook_id": "LifeInsuranceCalculator",
+  "run_directory": "runs\\LifeInsuranceCalculator",
+  "pass_rate": 1.0,
+  "test_sets_passed": 27,
+  "test_sets_total": 27,
+  "total_cells": 21590,
+  "validated_cells": 21590,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 100.608,
+  "llm_tokens_total": 0
+}

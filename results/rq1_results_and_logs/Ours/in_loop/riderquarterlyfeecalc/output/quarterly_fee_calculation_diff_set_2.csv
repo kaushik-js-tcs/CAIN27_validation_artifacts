@@ -1,0 +1,11 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Quarterly Fee Calculation,B,2,XlNumber,76000.0,76000.0,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,3,XlNumber,0.03034,0.03034,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,4,XlNumber,91.0,91.0,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,5,XlNumber,366.0,366.0,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,6,XlNumber,641.2,641.2,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,7,XlNumber,342.37,342.37,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,8,XlNumber,358.48,358.48,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,12,XlNumber,43801.0,43801.0,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,13,XlNumber,43892.0,43892.0,MATCH,normal_cell,set_2
+Quarterly Fee Calculation,B,14,XlDateSerial,43983.0,43983.0,MATCH,normal_cell,set_2

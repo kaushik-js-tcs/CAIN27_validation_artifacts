@@ -1,0 +1,3995 @@
+{
+  "workbook_id": "mortgage_calculator",
+  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\out_loop\\runs\\mortgage_calculator\\logs\\mortgage_calculator_20261029T065156.jsonl",
+  "total_failed_cells": 663,
+  "by_test_set": {
+    "set_5": [
+      {
+        "cell": "Calculator!A3",
+        "expected": "2023-01-09 00:00:00",
+        "actual": 45170.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A4",
+        "expected": "2023-02-09 00:00:00",
+        "actual": 45200.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A5",
+        "expected": "2023-03-09 00:00:00",
+        "actual": 45231.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A6",
+        "expected": "2023-04-09 00:00:00",
+        "actual": 45261.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A7",
+        "expected": "2023-05-09 00:00:00",
+        "actual": 45292.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A8",
+        "expected": "2023-06-09 00:00:00",
+        "actual": 45323.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A9",
+        "expected": "2023-07-09 00:00:00",
+        "actual": 45352.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A10",
+        "expected": "2023-08-09 00:00:00",
+        "actual": 45383.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A11",
+        "expected": "2023-09-09 00:00:00",
+        "actual": 45413.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A12",
+        "expected": "2023-10-09 00:00:00",
+        "actual": 45444.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A13",
+        "expected": "2023-11-09 00:00:00",
+        "actual": 45474.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A14",
+        "expected": "2023-12-09 00:00:00",
+        "actual": 45505.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A15",
+        "expected": "2024-01-09 00:00:00",
+        "actual": 45536.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A16",
+        "expected": "2024-02-09 00:00:00",
+        "actual": 45566.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A17",
+        "expected": "2024-03-09 00:00:00",
+        "actual": 45597.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A18",
+        "expected": "2024-04-09 00:00:00",
+        "actual": 45627.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A19",
+        "expected": "2024-05-09 00:00:00",
+        "actual": 45658.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A20",
+        "expected": "2024-06-09 00:00:00",
+        "actual": 45689.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A21",
+        "expected": "2024-07-09 00:00:00",
+        "actual": 45717.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A22",
+        "expected": "2024-08-09 00:00:00",
+        "actual": 45748.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A23",
+        "expected": "2024-09-09 00:00:00",
+        "actual": 45778.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A24",
+        "expected": "2024-10-09 00:00:00",
+        "actual": 45809.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A25",
+        "expected": "2024-11-09 00:00:00",
+        "actual": 45839.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A26",
+        "expected": "2024-12-09 00:00:00",
+        "actual": 45870.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A27",
+        "expected": "2025-01-09 00:00:00",
+        "actual": 45901.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A28",
+        "expected": "2025-02-09 00:00:00",
+        "actual": 45931.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A29",
+        "expected": "2025-03-09 00:00:00",
+        "actual": 45962.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A30",
+        "expected": "2025-04-09 00:00:00",
+        "actual": 45992.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A31",
+        "expected": "2025-05-09 00:00:00",
+        "actual": 46023.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A32",
+        "expected": "2025-06-09 00:00:00",
+        "actual": 46054.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A33",
+        "expected": "2025-07-09 00:00:00",
+        "actual": 46082.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A34",
+        "expected": "2025-08-09 00:00:00",
+        "actual": 46113.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A35",
+        "expected": "2025-09-09 00:00:00",
+        "actual": 46143.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A36",
+        "expected": "2025-10-09 00:00:00",
+        "actual": 46174.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A37",
+        "expected": "2025-11-09 00:00:00",
+        "actual": 46204.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A38",
+        "expected": "2025-12-09 00:00:00",
+        "actual": 46235.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A39",
+        "expected": "2026-01-09 00:00:00",
+        "actual": 46266.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A40",
+        "expected": "2026-02-09 00:00:00",
+        "actual": 46296.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A41",
+        "expected": "2026-03-09 00:00:00",
+        "actual": 46327.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A42",
+        "expected": "2026-04-09 00:00:00",
+        "actual": 46357.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A43",
+        "expected": "2026-05-09 00:00:00",
+        "actual": 46388.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A44",
+        "expected": "2026-06-09 00:00:00",
+        "actual": 46419.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A45",
+        "expected": "2026-07-09 00:00:00",
+        "actual": 46447.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A46",
+        "expected": "2026-08-09 00:00:00",
+        "actual": 46478.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A47",
+        "expected": "2026-09-09 00:00:00",
+        "actual": 46508.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A48",
+        "expected": "2026-10-09 00:00:00",
+        "actual": 46539.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A49",
+        "expected": "2026-11-09 00:00:00",
+        "actual": 46569.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A50",
+        "expected": "2026-12-09 00:00:00",
+        "actual": 46600.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A51",
+        "expected": "2027-01-09 00:00:00",
+        "actual": 46631.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A52",
+        "expected": "2027-02-09 00:00:00",
+        "actual": 46661.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A53",
+        "expected": "2027-03-09 00:00:00",
+        "actual": 46692.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A54",
+        "expected": "2027-04-09 00:00:00",
+        "actual": 46722.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A55",
+        "expected": "2027-05-09 00:00:00",
+        "actual": 46753.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A56",
+        "expected": "2027-06-09 00:00:00",
+        "actual": 46784.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A57",
+        "expected": "2027-07-09 00:00:00",
+        "actual": 46813.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A58",
+        "expected": "2027-08-09 00:00:00",
+        "actual": 46844.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A59",
+        "expected": "2027-09-09 00:00:00",
+        "actual": 46874.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A60",
+        "expected": "2027-10-09 00:00:00",
+        "actual": 46905.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A61",
+        "expected": "2027-11-09 00:00:00",
+        "actual": 46935.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A62",
+        "expected": "2027-12-09 00:00:00",
+        "actual": 46966.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A63",
+        "expected": "2028-01-09 00:00:00",
+        "actual": 46997.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A64",
+        "expected": "2028-02-09 00:00:00",
+        "actual": 47027.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A65",
+        "expected": "2028-03-09 00:00:00",
+        "actual": 47058.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A66",
+        "expected": "2028-04-09 00:00:00",
+        "actual": 47088.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A67",
+        "expected": "2028-05-09 00:00:00",
+        "actual": 47119.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A68",
+        "expected": "2028-06-09 00:00:00",
+        "actual": 47150.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A69",
+        "expected": "2028-07-09 00:00:00",
+        "actual": 47178.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A70",
+        "expected": "2028-08-09 00:00:00",
+        "actual": 47209.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A71",
+        "expected": "2028-09-09 00:00:00",
+        "actual": 47239.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A72",
+        "expected": "2028-10-09 00:00:00",
+        "actual": 47270.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A73",
+        "expected": "2028-11-09 00:00:00",
+        "actual": 47300.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A74",
+        "expected": "2028-12-09 00:00:00",
+        "actual": 47331.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A75",
+        "expected": "2029-01-09 00:00:00",
+        "actual": 47362.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A76",
+        "expected": "2029-02-09 00:00:00",
+        "actual": 47392.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A77",
+        "expected": "2029-03-09 00:00:00",
+        "actual": 47423.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A78",
+        "expected": "2029-04-09 00:00:00",
+        "actual": 47453.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A79",
+        "expected": "2029-05-09 00:00:00",
+        "actual": 47484.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A80",
+        "expected": "2029-06-09 00:00:00",
+        "actual": 47515.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A81",
+        "expected": "2029-07-09 00:00:00",
+        "actual": 47543.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A82",
+        "expected": "2029-08-09 00:00:00",
+        "actual": 47574.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A83",
+        "expected": "2029-09-09 00:00:00",
+        "actual": 47604.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A84",
+        "expected": "2029-10-09 00:00:00",
+        "actual": 47635.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A85",
+        "expected": "2029-11-09 00:00:00",
+        "actual": 47665.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A86",
+        "expected": "2029-12-09 00:00:00",
+        "actual": 47696.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A87",
+        "expected": "2030-01-09 00:00:00",
+        "actual": 47727.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A88",
+        "expected": "2030-02-09 00:00:00",
+        "actual": 47757.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A89",
+        "expected": "2030-03-09 00:00:00",
+        "actual": 47788.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A90",
+        "expected": "2030-04-09 00:00:00",
+        "actual": 47818.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A91",
+        "expected": "2030-05-09 00:00:00",
+        "actual": 47849.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A92",
+        "expected": "2030-06-09 00:00:00",
+        "actual": 47880.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A93",
+        "expected": "2030-07-09 00:00:00",
+        "actual": 47908.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A94",
+        "expected": "2030-08-09 00:00:00",
+        "actual": 47939.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A95",
+        "expected": "2030-09-09 00:00:00",
+        "actual": 47969.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A96",
+        "expected": "2030-10-09 00:00:00",
+        "actual": 48000.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A97",
+        "expected": "2030-11-09 00:00:00",
+        "actual": 48030.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A98",
+        "expected": "2030-12-09 00:00:00",
+        "actual": 48061.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A99",
+        "expected": "2031-01-09 00:00:00",
+        "actual": 48092.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A100",
+        "expected": "2031-02-09 00:00:00",
+        "actual": 48122.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A101",
+        "expected": "2031-03-09 00:00:00",
+        "actual": 48153.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A102",
+        "expected": "2031-04-09 00:00:00",
+        "actual": 48183.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A103",
+        "expected": "2031-05-09 00:00:00",
+        "actual": 48214.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A104",
+        "expected": "2031-06-09 00:00:00",
+        "actual": 48245.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A105",
+        "expected": "2031-07-09 00:00:00",
+        "actual": 48274.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A106",
+        "expected": "2031-08-09 00:00:00",
+        "actual": 48305.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A107",
+        "expected": "2031-09-09 00:00:00",
+        "actual": 48335.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A108",
+        "expected": "2031-10-09 00:00:00",
+        "actual": 48366.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A109",
+        "expected": "2031-11-09 00:00:00",
+        "actual": 48396.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A110",
+        "expected": "2031-12-09 00:00:00",
+        "actual": 48427.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A111",
+        "expected": "2032-01-09 00:00:00",
+        "actual": 48458.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A112",
+        "expected": "2032-02-09 00:00:00",
+        "actual": 48488.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A113",
+        "expected": "2032-03-09 00:00:00",
+        "actual": 48519.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A114",
+        "expected": "2032-04-09 00:00:00",
+        "actual": 48549.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A115",
+        "expected": "2032-05-09 00:00:00",
+        "actual": 48580.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A116",
+        "expected": "2032-06-09 00:00:00",
+        "actual": 48611.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A117",
+        "expected": "2032-07-09 00:00:00",
+        "actual": 48639.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A118",
+        "expected": "2032-08-09 00:00:00",
+        "actual": 48670.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A119",
+        "expected": "2032-09-09 00:00:00",
+        "actual": 48700.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A120",
+        "expected": "2032-10-09 00:00:00",
+        "actual": 48731.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A121",
+        "expected": "2032-11-09 00:00:00",
+        "actual": 48761.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A122",
+        "expected": "2032-12-09 00:00:00",
+        "actual": 48792.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A123",
+        "expected": "2033-01-09 00:00:00",
+        "actual": 48823.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A124",
+        "expected": "2033-02-09 00:00:00",
+        "actual": 48853.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A125",
+        "expected": "2033-03-09 00:00:00",
+        "actual": 48884.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A126",
+        "expected": "2033-04-09 00:00:00",
+        "actual": 48914.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A127",
+        "expected": "2033-05-09 00:00:00",
+        "actual": 48945.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A128",
+        "expected": "2033-06-09 00:00:00",
+        "actual": 48976.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A129",
+        "expected": "2033-07-09 00:00:00",
+        "actual": 49004.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A130",
+        "expected": "2033-08-09 00:00:00",
+        "actual": 49035.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A131",
+        "expected": "2033-09-09 00:00:00",
+        "actual": 49065.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A132",
+        "expected": "2033-10-09 00:00:00",
+        "actual": 49096.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A133",
+        "expected": "2033-11-09 00:00:00",
+        "actual": 49126.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A134",
+        "expected": "2033-12-09 00:00:00",
+        "actual": 49157.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A135",
+        "expected": "2034-01-09 00:00:00",
+        "actual": 49188.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A136",
+        "expected": "2034-02-09 00:00:00",
+        "actual": 49218.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A137",
+        "expected": "2034-03-09 00:00:00",
+        "actual": 49249.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A138",
+        "expected": "2034-04-09 00:00:00",
+        "actual": 49279.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A139",
+        "expected": "2034-05-09 00:00:00",
+        "actual": 49310.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A140",
+        "expected": "2034-06-09 00:00:00",
+        "actual": 49341.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A141",
+        "expected": "2034-07-09 00:00:00",
+        "actual": 49369.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A142",
+        "expected": "2034-08-09 00:00:00",
+        "actual": 49400.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A143",
+        "expected": "2034-09-09 00:00:00",
+        "actual": 49430.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A144",
+        "expected": "2034-10-09 00:00:00",
+        "actual": 49461.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A145",
+        "expected": "2034-11-09 00:00:00",
+        "actual": 49491.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A146",
+        "expected": "2034-12-09 00:00:00",
+        "actual": 49522.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A147",
+        "expected": "2035-01-09 00:00:00",
+        "actual": 49553.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A148",
+        "expected": "2035-02-09 00:00:00",
+        "actual": 49583.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A149",
+        "expected": "2035-03-09 00:00:00",
+        "actual": 49614.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A150",
+        "expected": "2035-04-09 00:00:00",
+        "actual": 49644.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A151",
+        "expected": "2035-05-09 00:00:00",
+        "actual": 49675.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A152",
+        "expected": "2035-06-09 00:00:00",
+        "actual": 49706.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A153",
+        "expected": "2035-07-09 00:00:00",
+        "actual": 49735.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A154",
+        "expected": "2035-08-09 00:00:00",
+        "actual": 49766.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A155",
+        "expected": "2035-09-09 00:00:00",
+        "actual": 49796.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A156",
+        "expected": "2035-10-09 00:00:00",
+        "actual": 49827.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A157",
+        "expected": "2035-11-09 00:00:00",
+        "actual": 49857.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A158",
+        "expected": "2035-12-09 00:00:00",
+        "actual": 49888.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A159",
+        "expected": "2036-01-09 00:00:00",
+        "actual": 49919.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A160",
+        "expected": "2036-02-09 00:00:00",
+        "actual": 49949.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A161",
+        "expected": "2036-03-09 00:00:00",
+        "actual": 49980.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A162",
+        "expected": "2036-04-09 00:00:00",
+        "actual": 50010.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A163",
+        "expected": "2036-05-09 00:00:00",
+        "actual": 50041.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A164",
+        "expected": "2036-06-09 00:00:00",
+        "actual": 50072.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A165",
+        "expected": "2036-07-09 00:00:00",
+        "actual": 50100.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A166",
+        "expected": "2036-08-09 00:00:00",
+        "actual": 50131.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A167",
+        "expected": "2036-09-09 00:00:00",
+        "actual": 50161.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A168",
+        "expected": "2036-10-09 00:00:00",
+        "actual": 50192.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A169",
+        "expected": "2036-11-09 00:00:00",
+        "actual": 50222.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A170",
+        "expected": "2036-12-09 00:00:00",
+        "actual": 50253.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A171",
+        "expected": "2037-01-09 00:00:00",
+        "actual": 50284.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A172",
+        "expected": "2037-02-09 00:00:00",
+        "actual": 50314.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A173",
+        "expected": "2037-03-09 00:00:00",
+        "actual": 50345.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A174",
+        "expected": "2037-04-09 00:00:00",
+        "actual": 50375.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A175",
+        "expected": "2037-05-09 00:00:00",
+        "actual": 50406.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A176",
+        "expected": "2037-06-09 00:00:00",
+        "actual": 50437.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A177",
+        "expected": "2037-07-09 00:00:00",
+        "actual": 50465.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A178",
+        "expected": "2037-08-09 00:00:00",
+        "actual": 50496.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A179",
+        "expected": "2037-09-09 00:00:00",
+        "actual": 50526.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A180",
+        "expected": "2037-10-09 00:00:00",
+        "actual": 50557.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A181",
+        "expected": "2037-11-09 00:00:00",
+        "actual": 50587.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A182",
+        "expected": "2037-12-09 00:00:00",
+        "actual": 50618.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A183",
+        "expected": "2038-01-09 00:00:00",
+        "actual": 50649.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A184",
+        "expected": "2038-02-09 00:00:00",
+        "actual": 50679.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A185",
+        "expected": "2038-03-09 00:00:00",
+        "actual": 50710.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A186",
+        "expected": "2038-04-09 00:00:00",
+        "actual": 50740.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A187",
+        "expected": "2038-05-09 00:00:00",
+        "actual": 50771.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A188",
+        "expected": "2038-06-09 00:00:00",
+        "actual": 50802.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A189",
+        "expected": "2038-07-09 00:00:00",
+        "actual": 50830.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A190",
+        "expected": "2038-08-09 00:00:00",
+        "actual": 50861.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A191",
+        "expected": "2038-09-09 00:00:00",
+        "actual": 50891.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A192",
+        "expected": "2038-10-09 00:00:00",
+        "actual": 50922.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A193",
+        "expected": "2038-11-09 00:00:00",
+        "actual": 50952.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A194",
+        "expected": "2038-12-09 00:00:00",
+        "actual": 50983.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A195",
+        "expected": "2039-01-09 00:00:00",
+        "actual": 51014.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A196",
+        "expected": "2039-02-09 00:00:00",
+        "actual": 51044.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A197",
+        "expected": "2039-03-09 00:00:00",
+        "actual": 51075.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A198",
+        "expected": "2039-04-09 00:00:00",
+        "actual": 51105.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A199",
+        "expected": "2039-05-09 00:00:00",
+        "actual": 51136.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A200",
+        "expected": "2039-06-09 00:00:00",
+        "actual": 51167.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A201",
+        "expected": "2039-07-09 00:00:00",
+        "actual": 51196.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A202",
+        "expected": "2039-08-09 00:00:00",
+        "actual": 51227.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A203",
+        "expected": "2039-09-09 00:00:00",
+        "actual": 51257.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A204",
+        "expected": "2039-10-09 00:00:00",
+        "actual": 51288.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A205",
+        "expected": "2039-11-09 00:00:00",
+        "actual": 51318.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A206",
+        "expected": "2039-12-09 00:00:00",
+        "actual": 51349.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A207",
+        "expected": "2040-01-09 00:00:00",
+        "actual": 51380.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A208",
+        "expected": "2040-02-09 00:00:00",
+        "actual": 51410.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A209",
+        "expected": "2040-03-09 00:00:00",
+        "actual": 51441.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A210",
+        "expected": "2040-04-09 00:00:00",
+        "actual": 51471.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A211",
+        "expected": "2040-05-09 00:00:00",
+        "actual": 51502.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A212",
+        "expected": "2040-06-09 00:00:00",
+        "actual": 51533.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A213",
+        "expected": "2040-07-09 00:00:00",
+        "actual": 51561.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A214",
+        "expected": "2040-08-09 00:00:00",
+        "actual": 51592.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A215",
+        "expected": "2040-09-09 00:00:00",
+        "actual": 51622.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A216",
+        "expected": "2040-10-09 00:00:00",
+        "actual": 51653.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A217",
+        "expected": "2040-11-09 00:00:00",
+        "actual": 51683.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A218",
+        "expected": "2040-12-09 00:00:00",
+        "actual": 51714.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A219",
+        "expected": "2041-01-09 00:00:00",
+        "actual": 51745.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A220",
+        "expected": "2041-02-09 00:00:00",
+        "actual": 51775.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A221",
+        "expected": "2041-03-09 00:00:00",
+        "actual": 51806.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A222",
+        "expected": "2041-04-09 00:00:00",
+        "actual": 51836.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A223",
+        "expected": "2041-05-09 00:00:00",
+        "actual": 51867.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A224",
+        "expected": "2041-06-09 00:00:00",
+        "actual": 51898.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A225",
+        "expected": "2041-07-09 00:00:00",
+        "actual": 51926.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A226",
+        "expected": "2041-08-09 00:00:00",
+        "actual": 51957.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A227",
+        "expected": "2041-09-09 00:00:00",
+        "actual": 51987.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A228",
+        "expected": "2041-10-09 00:00:00",
+        "actual": 52018.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A229",
+        "expected": "2041-11-09 00:00:00",
+        "actual": 52048.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A230",
+        "expected": "2041-12-09 00:00:00",
+        "actual": 52079.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A231",
+        "expected": "2042-01-09 00:00:00",
+        "actual": 52110.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A232",
+        "expected": "2042-02-09 00:00:00",
+        "actual": 52140.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A233",
+        "expected": "2042-03-09 00:00:00",
+        "actual": 52171.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A234",
+        "expected": "2042-04-09 00:00:00",
+        "actual": 52201.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A235",
+        "expected": "2042-05-09 00:00:00",
+        "actual": 52232.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A236",
+        "expected": "2042-06-09 00:00:00",
+        "actual": 52263.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A237",
+        "expected": "2042-07-09 00:00:00",
+        "actual": 52291.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A238",
+        "expected": "2042-08-09 00:00:00",
+        "actual": 52322.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A239",
+        "expected": "2042-09-09 00:00:00",
+        "actual": 52352.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A240",
+        "expected": "2042-10-09 00:00:00",
+        "actual": 52383.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A241",
+        "expected": "2042-11-09 00:00:00",
+        "actual": 52413.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A242",
+        "expected": "2042-12-09 00:00:00",
+        "actual": 52444.0,
+        "failure_reason": "date_mismatch"
+      }
+    ],
+    "set_6": [
+      {
+        "cell": "Calculator!A3",
+        "expected": "2025-11-01 00:00:00",
+        "actual": 45668.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A4",
+        "expected": "2025-12-01 00:00:00",
+        "actual": 45699.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A5",
+        "expected": "2026-01-01 00:00:00",
+        "actual": 45727.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A6",
+        "expected": "2026-02-01 00:00:00",
+        "actual": 45758.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A7",
+        "expected": "2026-03-01 00:00:00",
+        "actual": 45788.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A8",
+        "expected": "2026-04-01 00:00:00",
+        "actual": 45819.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A9",
+        "expected": "2026-05-01 00:00:00",
+        "actual": 45849.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A10",
+        "expected": "2026-06-01 00:00:00",
+        "actual": 45880.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A11",
+        "expected": "2026-07-01 00:00:00",
+        "actual": 45911.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A12",
+        "expected": "2026-08-01 00:00:00",
+        "actual": 45941.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A13",
+        "expected": "2026-09-01 00:00:00",
+        "actual": 45972.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A14",
+        "expected": "2026-10-01 00:00:00",
+        "actual": 46002.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A15",
+        "expected": "2026-11-01 00:00:00",
+        "actual": 46033.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A16",
+        "expected": "2026-12-01 00:00:00",
+        "actual": 46064.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A17",
+        "expected": "2027-01-01 00:00:00",
+        "actual": 46092.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A18",
+        "expected": "2027-02-01 00:00:00",
+        "actual": 46123.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A19",
+        "expected": "2027-03-01 00:00:00",
+        "actual": 46153.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A20",
+        "expected": "2027-04-01 00:00:00",
+        "actual": 46184.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A21",
+        "expected": "2027-05-01 00:00:00",
+        "actual": 46214.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A22",
+        "expected": "2027-06-01 00:00:00",
+        "actual": 46245.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A23",
+        "expected": "2027-07-01 00:00:00",
+        "actual": 46276.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A24",
+        "expected": "2027-08-01 00:00:00",
+        "actual": 46306.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A25",
+        "expected": "2027-09-01 00:00:00",
+        "actual": 46337.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A26",
+        "expected": "2027-10-01 00:00:00",
+        "actual": 46367.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A27",
+        "expected": "2027-11-01 00:00:00",
+        "actual": 46398.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A28",
+        "expected": "2027-12-01 00:00:00",
+        "actual": 46429.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A29",
+        "expected": "2028-01-01 00:00:00",
+        "actual": 46457.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A30",
+        "expected": "2028-02-01 00:00:00",
+        "actual": 46488.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A31",
+        "expected": "2028-03-01 00:00:00",
+        "actual": 46518.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A32",
+        "expected": "2028-04-01 00:00:00",
+        "actual": 46549.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A33",
+        "expected": "2028-05-01 00:00:00",
+        "actual": 46579.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A34",
+        "expected": "2028-06-01 00:00:00",
+        "actual": 46610.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A35",
+        "expected": "2028-07-01 00:00:00",
+        "actual": 46641.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A36",
+        "expected": "2028-08-01 00:00:00",
+        "actual": 46671.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A37",
+        "expected": "2028-09-01 00:00:00",
+        "actual": 46702.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A38",
+        "expected": "2028-10-01 00:00:00",
+        "actual": 46732.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A39",
+        "expected": "2028-11-01 00:00:00",
+        "actual": 46763.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A40",
+        "expected": "2028-12-01 00:00:00",
+        "actual": 46794.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A41",
+        "expected": "2029-01-01 00:00:00",
+        "actual": 46823.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A42",
+        "expected": "2029-02-01 00:00:00",
+        "actual": 46854.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A43",
+        "expected": "2029-03-01 00:00:00",
+        "actual": 46884.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A44",
+        "expected": "2029-04-01 00:00:00",
+        "actual": 46915.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A45",
+        "expected": "2029-05-01 00:00:00",
+        "actual": 46945.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A46",
+        "expected": "2029-06-01 00:00:00",
+        "actual": 46976.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A47",
+        "expected": "2029-07-01 00:00:00",
+        "actual": 47007.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A48",
+        "expected": "2029-08-01 00:00:00",
+        "actual": 47037.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A49",
+        "expected": "2029-09-01 00:00:00",
+        "actual": 47068.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A50",
+        "expected": "2029-10-01 00:00:00",
+        "actual": 47098.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A51",
+        "expected": "2029-11-01 00:00:00",
+        "actual": 47129.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A52",
+        "expected": "2029-12-01 00:00:00",
+        "actual": 47160.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A53",
+        "expected": "2030-01-01 00:00:00",
+        "actual": 47188.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A54",
+        "expected": "2030-02-01 00:00:00",
+        "actual": 47219.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A55",
+        "expected": "2030-03-01 00:00:00",
+        "actual": 47249.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A56",
+        "expected": "2030-04-01 00:00:00",
+        "actual": 47280.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A57",
+        "expected": "2030-05-01 00:00:00",
+        "actual": 47310.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A58",
+        "expected": "2030-06-01 00:00:00",
+        "actual": 47341.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A59",
+        "expected": "2030-07-01 00:00:00",
+        "actual": 47372.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A60",
+        "expected": "2030-08-01 00:00:00",
+        "actual": 47402.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A61",
+        "expected": "2030-09-01 00:00:00",
+        "actual": 47433.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A62",
+        "expected": "2030-10-01 00:00:00",
+        "actual": 47463.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A63",
+        "expected": "2030-11-01 00:00:00",
+        "actual": 47494.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A64",
+        "expected": "2030-12-01 00:00:00",
+        "actual": 47525.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A65",
+        "expected": "2031-01-01 00:00:00",
+        "actual": 47553.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A66",
+        "expected": "2031-02-01 00:00:00",
+        "actual": 47584.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A67",
+        "expected": "2031-03-01 00:00:00",
+        "actual": 47614.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A68",
+        "expected": "2031-04-01 00:00:00",
+        "actual": 47645.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A69",
+        "expected": "2031-05-01 00:00:00",
+        "actual": 47675.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A70",
+        "expected": "2031-06-01 00:00:00",
+        "actual": 47706.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A71",
+        "expected": "2031-07-01 00:00:00",
+        "actual": 47737.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A72",
+        "expected": "2031-08-01 00:00:00",
+        "actual": 47767.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A73",
+        "expected": "2031-09-01 00:00:00",
+        "actual": 47798.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A74",
+        "expected": "2031-10-01 00:00:00",
+        "actual": 47828.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A75",
+        "expected": "2031-11-01 00:00:00",
+        "actual": 47859.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A76",
+        "expected": "2031-12-01 00:00:00",
+        "actual": 47890.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A77",
+        "expected": "2032-01-01 00:00:00",
+        "actual": 47918.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A78",
+        "expected": "2032-02-01 00:00:00",
+        "actual": 47949.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A79",
+        "expected": "2032-03-01 00:00:00",
+        "actual": 47979.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A80",
+        "expected": "2032-04-01 00:00:00",
+        "actual": 48010.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A81",
+        "expected": "2032-05-01 00:00:00",
+        "actual": 48040.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A82",
+        "expected": "2032-06-01 00:00:00",
+        "actual": 48071.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A83",
+        "expected": "2032-07-01 00:00:00",
+        "actual": 48102.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A84",
+        "expected": "2032-08-01 00:00:00",
+        "actual": 48132.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A85",
+        "expected": "2032-09-01 00:00:00",
+        "actual": 48163.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A86",
+        "expected": "2032-10-01 00:00:00",
+        "actual": 48193.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A87",
+        "expected": "2032-11-01 00:00:00",
+        "actual": 48224.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A88",
+        "expected": "2032-12-01 00:00:00",
+        "actual": 48255.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A89",
+        "expected": "2033-01-01 00:00:00",
+        "actual": 48284.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A90",
+        "expected": "2033-02-01 00:00:00",
+        "actual": 48315.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A91",
+        "expected": "2033-03-01 00:00:00",
+        "actual": 48345.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A92",
+        "expected": "2033-04-01 00:00:00",
+        "actual": 48376.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A93",
+        "expected": "2033-05-01 00:00:00",
+        "actual": 48406.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A94",
+        "expected": "2033-06-01 00:00:00",
+        "actual": 48437.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A95",
+        "expected": "2033-07-01 00:00:00",
+        "actual": 48468.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A96",
+        "expected": "2033-08-01 00:00:00",
+        "actual": 48498.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A97",
+        "expected": "2033-09-01 00:00:00",
+        "actual": 48529.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A98",
+        "expected": "2033-10-01 00:00:00",
+        "actual": 48559.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A99",
+        "expected": "2033-11-01 00:00:00",
+        "actual": 48590.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A100",
+        "expected": "2033-12-01 00:00:00",
+        "actual": 48621.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A101",
+        "expected": "2034-01-01 00:00:00",
+        "actual": 48649.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A102",
+        "expected": "2034-02-01 00:00:00",
+        "actual": 48680.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A103",
+        "expected": "2034-03-01 00:00:00",
+        "actual": 48710.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A104",
+        "expected": "2034-04-01 00:00:00",
+        "actual": 48741.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A105",
+        "expected": "2034-05-01 00:00:00",
+        "actual": 48771.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A106",
+        "expected": "2034-06-01 00:00:00",
+        "actual": 48802.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A107",
+        "expected": "2034-07-01 00:00:00",
+        "actual": 48833.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A108",
+        "expected": "2034-08-01 00:00:00",
+        "actual": 48863.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A109",
+        "expected": "2034-09-01 00:00:00",
+        "actual": 48894.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A110",
+        "expected": "2034-10-01 00:00:00",
+        "actual": 48924.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A111",
+        "expected": "2034-11-01 00:00:00",
+        "actual": 48955.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A112",
+        "expected": "2034-12-01 00:00:00",
+        "actual": 48986.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A113",
+        "expected": "2035-01-01 00:00:00",
+        "actual": 49014.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A114",
+        "expected": "2035-02-01 00:00:00",
+        "actual": 49045.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A115",
+        "expected": "2035-03-01 00:00:00",
+        "actual": 49075.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A116",
+        "expected": "2035-04-01 00:00:00",
+        "actual": 49106.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A117",
+        "expected": "2035-05-01 00:00:00",
+        "actual": 49136.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A118",
+        "expected": "2035-06-01 00:00:00",
+        "actual": 49167.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A119",
+        "expected": "2035-07-01 00:00:00",
+        "actual": 49198.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A120",
+        "expected": "2035-08-01 00:00:00",
+        "actual": 49228.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A121",
+        "expected": "2035-09-01 00:00:00",
+        "actual": 49259.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A122",
+        "expected": "2035-10-01 00:00:00",
+        "actual": 49289.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A123",
+        "expected": "2035-11-01 00:00:00",
+        "actual": 49320.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A124",
+        "expected": "2035-12-01 00:00:00",
+        "actual": 49351.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A125",
+        "expected": "2036-01-01 00:00:00",
+        "actual": 49379.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A126",
+        "expected": "2036-02-01 00:00:00",
+        "actual": 49410.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A127",
+        "expected": "2036-03-01 00:00:00",
+        "actual": 49440.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A128",
+        "expected": "2036-04-01 00:00:00",
+        "actual": 49471.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A129",
+        "expected": "2036-05-01 00:00:00",
+        "actual": 49501.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A130",
+        "expected": "2036-06-01 00:00:00",
+        "actual": 49532.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A131",
+        "expected": "2036-07-01 00:00:00",
+        "actual": 49563.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A132",
+        "expected": "2036-08-01 00:00:00",
+        "actual": 49593.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A133",
+        "expected": "2036-09-01 00:00:00",
+        "actual": 49624.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A134",
+        "expected": "2036-10-01 00:00:00",
+        "actual": 49654.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A135",
+        "expected": "2036-11-01 00:00:00",
+        "actual": 49685.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A136",
+        "expected": "2036-12-01 00:00:00",
+        "actual": 49716.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A137",
+        "expected": "2037-01-01 00:00:00",
+        "actual": 49745.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A138",
+        "expected": "2037-02-01 00:00:00",
+        "actual": 49776.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A139",
+        "expected": "2037-03-01 00:00:00",
+        "actual": 49806.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A140",
+        "expected": "2037-04-01 00:00:00",
+        "actual": 49837.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A141",
+        "expected": "2037-05-01 00:00:00",
+        "actual": 49867.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A142",
+        "expected": "2037-06-01 00:00:00",
+        "actual": 49898.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A143",
+        "expected": "2037-07-01 00:00:00",
+        "actual": 49929.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A144",
+        "expected": "2037-08-01 00:00:00",
+        "actual": 49959.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A145",
+        "expected": "2037-09-01 00:00:00",
+        "actual": 49990.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A146",
+        "expected": "2037-10-01 00:00:00",
+        "actual": 50020.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A147",
+        "expected": "2037-11-01 00:00:00",
+        "actual": 50051.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A148",
+        "expected": "2037-12-01 00:00:00",
+        "actual": 50082.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A149",
+        "expected": "2038-01-01 00:00:00",
+        "actual": 50110.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A150",
+        "expected": "2038-02-01 00:00:00",
+        "actual": 50141.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A151",
+        "expected": "2038-03-01 00:00:00",
+        "actual": 50171.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A152",
+        "expected": "2038-04-01 00:00:00",
+        "actual": 50202.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A153",
+        "expected": "2038-05-01 00:00:00",
+        "actual": 50232.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A154",
+        "expected": "2038-06-01 00:00:00",
+        "actual": 50263.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A155",
+        "expected": "2038-07-01 00:00:00",
+        "actual": 50294.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A156",
+        "expected": "2038-08-01 00:00:00",
+        "actual": 50324.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A157",
+        "expected": "2038-09-01 00:00:00",
+        "actual": 50355.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A158",
+        "expected": "2038-10-01 00:00:00",
+        "actual": 50385.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A159",
+        "expected": "2038-11-01 00:00:00",
+        "actual": 50416.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A160",
+        "expected": "2038-12-01 00:00:00",
+        "actual": 50447.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A161",
+        "expected": "2039-01-01 00:00:00",
+        "actual": 50475.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A162",
+        "expected": "2039-02-01 00:00:00",
+        "actual": 50506.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A163",
+        "expected": "2039-03-01 00:00:00",
+        "actual": 50536.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A164",
+        "expected": "2039-04-01 00:00:00",
+        "actual": 50567.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A165",
+        "expected": "2039-05-01 00:00:00",
+        "actual": 50597.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A166",
+        "expected": "2039-06-01 00:00:00",
+        "actual": 50628.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A167",
+        "expected": "2039-07-01 00:00:00",
+        "actual": 50659.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A168",
+        "expected": "2039-08-01 00:00:00",
+        "actual": 50689.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A169",
+        "expected": "2039-09-01 00:00:00",
+        "actual": 50720.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A170",
+        "expected": "2039-10-01 00:00:00",
+        "actual": 50750.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A171",
+        "expected": "2039-11-01 00:00:00",
+        "actual": 50781.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A172",
+        "expected": "2039-12-01 00:00:00",
+        "actual": 50812.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A173",
+        "expected": "2040-01-01 00:00:00",
+        "actual": 50840.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A174",
+        "expected": "2040-02-01 00:00:00",
+        "actual": 50871.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A175",
+        "expected": "2040-03-01 00:00:00",
+        "actual": 50901.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A176",
+        "expected": "2040-04-01 00:00:00",
+        "actual": 50932.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A177",
+        "expected": "2040-05-01 00:00:00",
+        "actual": 50962.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A178",
+        "expected": "2040-06-01 00:00:00",
+        "actual": 50993.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A179",
+        "expected": "2040-07-01 00:00:00",
+        "actual": 51024.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A180",
+        "expected": "2040-08-01 00:00:00",
+        "actual": 51054.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A181",
+        "expected": "2040-09-01 00:00:00",
+        "actual": 51085.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A182",
+        "expected": "2040-10-01 00:00:00",
+        "actual": 51115.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A183",
+        "expected": "2040-11-01 00:00:00",
+        "actual": 51146.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A184",
+        "expected": "2040-12-01 00:00:00",
+        "actual": 51177.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A185",
+        "expected": "2041-01-01 00:00:00",
+        "actual": 51206.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A186",
+        "expected": "2041-02-01 00:00:00",
+        "actual": 51237.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A187",
+        "expected": "2041-03-01 00:00:00",
+        "actual": 51267.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A188",
+        "expected": "2041-04-01 00:00:00",
+        "actual": 51298.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A189",
+        "expected": "2041-05-01 00:00:00",
+        "actual": 51328.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A190",
+        "expected": "2041-06-01 00:00:00",
+        "actual": 51359.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A191",
+        "expected": "2041-07-01 00:00:00",
+        "actual": 51390.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A192",
+        "expected": "2041-08-01 00:00:00",
+        "actual": 51420.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A193",
+        "expected": "2041-09-01 00:00:00",
+        "actual": 51451.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A194",
+        "expected": "2041-10-01 00:00:00",
+        "actual": 51481.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A195",
+        "expected": "2041-11-01 00:00:00",
+        "actual": 51512.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A196",
+        "expected": "2041-12-01 00:00:00",
+        "actual": 51543.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A197",
+        "expected": "2042-01-01 00:00:00",
+        "actual": 51571.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A198",
+        "expected": "2042-02-01 00:00:00",
+        "actual": 51602.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A199",
+        "expected": "2042-03-01 00:00:00",
+        "actual": 51632.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A200",
+        "expected": "2042-04-01 00:00:00",
+        "actual": 51663.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A201",
+        "expected": "2042-05-01 00:00:00",
+        "actual": 51693.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A202",
+        "expected": "2042-06-01 00:00:00",
+        "actual": 51724.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A203",
+        "expected": "2042-07-01 00:00:00",
+        "actual": 51755.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A204",
+        "expected": "2042-08-01 00:00:00",
+        "actual": 51785.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A205",
+        "expected": "2042-09-01 00:00:00",
+        "actual": 51816.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A206",
+        "expected": "2042-10-01 00:00:00",
+        "actual": 51846.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A207",
+        "expected": "2042-11-01 00:00:00",
+        "actual": 51877.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A208",
+        "expected": "2042-12-01 00:00:00",
+        "actual": 51908.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A209",
+        "expected": "2043-01-01 00:00:00",
+        "actual": 51936.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A210",
+        "expected": "2043-02-01 00:00:00",
+        "actual": 51967.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A211",
+        "expected": "2043-03-01 00:00:00",
+        "actual": 51997.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A212",
+        "expected": "2043-04-01 00:00:00",
+        "actual": 52028.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A213",
+        "expected": "2043-05-01 00:00:00",
+        "actual": 52058.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A214",
+        "expected": "2043-06-01 00:00:00",
+        "actual": 52089.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A215",
+        "expected": "2043-07-01 00:00:00",
+        "actual": 52120.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A216",
+        "expected": "2043-08-01 00:00:00",
+        "actual": 52150.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A217",
+        "expected": "2043-09-01 00:00:00",
+        "actual": 52181.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A218",
+        "expected": "2043-10-01 00:00:00",
+        "actual": 52211.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A219",
+        "expected": "2043-11-01 00:00:00",
+        "actual": 52242.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A220",
+        "expected": "2043-12-01 00:00:00",
+        "actual": 52273.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A221",
+        "expected": "2044-01-01 00:00:00",
+        "actual": 52301.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A222",
+        "expected": "2044-02-01 00:00:00",
+        "actual": 52332.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A223",
+        "expected": "2044-03-01 00:00:00",
+        "actual": 52362.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A224",
+        "expected": "2044-04-01 00:00:00",
+        "actual": 52393.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A225",
+        "expected": "2044-05-01 00:00:00",
+        "actual": 52423.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A226",
+        "expected": "2044-06-01 00:00:00",
+        "actual": 52454.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A227",
+        "expected": "2044-07-01 00:00:00",
+        "actual": 52485.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A228",
+        "expected": "2044-08-01 00:00:00",
+        "actual": 52515.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A229",
+        "expected": "2044-09-01 00:00:00",
+        "actual": 52546.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A230",
+        "expected": "2044-10-01 00:00:00",
+        "actual": 52576.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A231",
+        "expected": "2044-11-01 00:00:00",
+        "actual": 52607.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A232",
+        "expected": "2044-12-01 00:00:00",
+        "actual": 52638.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A233",
+        "expected": "2045-01-01 00:00:00",
+        "actual": 52667.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A234",
+        "expected": "2045-02-01 00:00:00",
+        "actual": 52698.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A235",
+        "expected": "2045-03-01 00:00:00",
+        "actual": 52728.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A236",
+        "expected": "2045-04-01 00:00:00",
+        "actual": 52759.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A237",
+        "expected": "2045-05-01 00:00:00",
+        "actual": 52789.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A238",
+        "expected": "2045-06-01 00:00:00",
+        "actual": 52820.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A239",
+        "expected": "2045-07-01 00:00:00",
+        "actual": 52851.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A240",
+        "expected": "2045-08-01 00:00:00",
+        "actual": 52881.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A241",
+        "expected": "2045-09-01 00:00:00",
+        "actual": 52912.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A242",
+        "expected": "2045-10-01 00:00:00",
+        "actual": 52942.0,
+        "failure_reason": "date_mismatch"
+      }
+    ],
+    "set_9": [
+      {
+        "cell": "Calculator!A3",
+        "expected": "2021-06-10 00:00:00",
+        "actual": 44475.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A4",
+        "expected": "2021-07-10 00:00:00",
+        "actual": 44506.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A5",
+        "expected": "2021-08-10 00:00:00",
+        "actual": 44536.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A6",
+        "expected": "2021-09-10 00:00:00",
+        "actual": 44567.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A7",
+        "expected": "2021-10-10 00:00:00",
+        "actual": 44598.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A8",
+        "expected": "2021-11-10 00:00:00",
+        "actual": 44626.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A9",
+        "expected": "2021-12-10 00:00:00",
+        "actual": 44657.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A10",
+        "expected": "2022-01-10 00:00:00",
+        "actual": 44687.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A11",
+        "expected": "2022-02-10 00:00:00",
+        "actual": 44718.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A12",
+        "expected": "2022-03-10 00:00:00",
+        "actual": 44748.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A13",
+        "expected": "2022-04-10 00:00:00",
+        "actual": 44779.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A14",
+        "expected": "2022-05-10 00:00:00",
+        "actual": 44810.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A15",
+        "expected": "2022-06-10 00:00:00",
+        "actual": 44840.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A16",
+        "expected": "2022-07-10 00:00:00",
+        "actual": 44871.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A17",
+        "expected": "2022-08-10 00:00:00",
+        "actual": 44901.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A18",
+        "expected": "2022-09-10 00:00:00",
+        "actual": 44932.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A19",
+        "expected": "2022-10-10 00:00:00",
+        "actual": 44963.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A20",
+        "expected": "2022-11-10 00:00:00",
+        "actual": 44991.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A21",
+        "expected": "2022-12-10 00:00:00",
+        "actual": 45022.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A22",
+        "expected": "2023-01-10 00:00:00",
+        "actual": 45052.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A23",
+        "expected": "2023-02-10 00:00:00",
+        "actual": 45083.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A24",
+        "expected": "2023-03-10 00:00:00",
+        "actual": 45113.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A25",
+        "expected": "2023-04-10 00:00:00",
+        "actual": 45144.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A26",
+        "expected": "2023-05-10 00:00:00",
+        "actual": 45175.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A27",
+        "expected": "2023-06-10 00:00:00",
+        "actual": 45205.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A28",
+        "expected": "2023-07-10 00:00:00",
+        "actual": 45236.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A29",
+        "expected": "2023-08-10 00:00:00",
+        "actual": 45266.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A30",
+        "expected": "2023-09-10 00:00:00",
+        "actual": 45297.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A31",
+        "expected": "2023-10-10 00:00:00",
+        "actual": 45328.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A32",
+        "expected": "2023-11-10 00:00:00",
+        "actual": 45357.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A33",
+        "expected": "2023-12-10 00:00:00",
+        "actual": 45388.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A34",
+        "expected": "2024-01-10 00:00:00",
+        "actual": 45418.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A35",
+        "expected": "2024-02-10 00:00:00",
+        "actual": 45449.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A36",
+        "expected": "2024-03-10 00:00:00",
+        "actual": 45479.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A37",
+        "expected": "2024-04-10 00:00:00",
+        "actual": 45510.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A38",
+        "expected": "2024-05-10 00:00:00",
+        "actual": 45541.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A39",
+        "expected": "2024-06-10 00:00:00",
+        "actual": 45571.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A40",
+        "expected": "2024-07-10 00:00:00",
+        "actual": 45602.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A41",
+        "expected": "2024-08-10 00:00:00",
+        "actual": 45632.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A42",
+        "expected": "2024-09-10 00:00:00",
+        "actual": 45663.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A43",
+        "expected": "2024-10-10 00:00:00",
+        "actual": 45694.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A44",
+        "expected": "2024-11-10 00:00:00",
+        "actual": 45722.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A45",
+        "expected": "2024-12-10 00:00:00",
+        "actual": 45753.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A46",
+        "expected": "2025-01-10 00:00:00",
+        "actual": 45783.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A47",
+        "expected": "2025-02-10 00:00:00",
+        "actual": 45814.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A48",
+        "expected": "2025-03-10 00:00:00",
+        "actual": 45844.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A49",
+        "expected": "2025-04-10 00:00:00",
+        "actual": 45875.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A50",
+        "expected": "2025-05-10 00:00:00",
+        "actual": 45906.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A51",
+        "expected": "2025-06-10 00:00:00",
+        "actual": 45936.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A52",
+        "expected": "2025-07-10 00:00:00",
+        "actual": 45967.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A53",
+        "expected": "2025-08-10 00:00:00",
+        "actual": 45997.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A54",
+        "expected": "2025-09-10 00:00:00",
+        "actual": 46028.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A55",
+        "expected": "2025-10-10 00:00:00",
+        "actual": 46059.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A56",
+        "expected": "2025-11-10 00:00:00",
+        "actual": 46087.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A57",
+        "expected": "2025-12-10 00:00:00",
+        "actual": 46118.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A58",
+        "expected": "2026-01-10 00:00:00",
+        "actual": 46148.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A59",
+        "expected": "2026-02-10 00:00:00",
+        "actual": 46179.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A60",
+        "expected": "2026-03-10 00:00:00",
+        "actual": 46209.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A61",
+        "expected": "2026-04-10 00:00:00",
+        "actual": 46240.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A62",
+        "expected": "2026-05-10 00:00:00",
+        "actual": 46271.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A63",
+        "expected": "2026-06-10 00:00:00",
+        "actual": 46301.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A64",
+        "expected": "2026-07-10 00:00:00",
+        "actual": 46332.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A65",
+        "expected": "2026-08-10 00:00:00",
+        "actual": 46362.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A66",
+        "expected": "2026-09-10 00:00:00",
+        "actual": 46393.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A67",
+        "expected": "2026-10-10 00:00:00",
+        "actual": 46424.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A68",
+        "expected": "2026-11-10 00:00:00",
+        "actual": 46452.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A69",
+        "expected": "2026-12-10 00:00:00",
+        "actual": 46483.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A70",
+        "expected": "2027-01-10 00:00:00",
+        "actual": 46513.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A71",
+        "expected": "2027-02-10 00:00:00",
+        "actual": 46544.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A72",
+        "expected": "2027-03-10 00:00:00",
+        "actual": 46574.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A73",
+        "expected": "2027-04-10 00:00:00",
+        "actual": 46605.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A74",
+        "expected": "2027-05-10 00:00:00",
+        "actual": 46636.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A75",
+        "expected": "2027-06-10 00:00:00",
+        "actual": 46666.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A76",
+        "expected": "2027-07-10 00:00:00",
+        "actual": 46697.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A77",
+        "expected": "2027-08-10 00:00:00",
+        "actual": 46727.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A78",
+        "expected": "2027-09-10 00:00:00",
+        "actual": 46758.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A79",
+        "expected": "2027-10-10 00:00:00",
+        "actual": 46789.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A80",
+        "expected": "2027-11-10 00:00:00",
+        "actual": 46818.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A81",
+        "expected": "2027-12-10 00:00:00",
+        "actual": 46849.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A82",
+        "expected": "2028-01-10 00:00:00",
+        "actual": 46879.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A83",
+        "expected": "2028-02-10 00:00:00",
+        "actual": 46910.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A84",
+        "expected": "2028-03-10 00:00:00",
+        "actual": 46940.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A85",
+        "expected": "2028-04-10 00:00:00",
+        "actual": 46971.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A86",
+        "expected": "2028-05-10 00:00:00",
+        "actual": 47002.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A87",
+        "expected": "2028-06-10 00:00:00",
+        "actual": 47032.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A88",
+        "expected": "2028-07-10 00:00:00",
+        "actual": 47063.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A89",
+        "expected": "2028-08-10 00:00:00",
+        "actual": 47093.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A90",
+        "expected": "2028-09-10 00:00:00",
+        "actual": 47124.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A91",
+        "expected": "2028-10-10 00:00:00",
+        "actual": 47155.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A92",
+        "expected": "2028-11-10 00:00:00",
+        "actual": 47183.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A93",
+        "expected": "2028-12-10 00:00:00",
+        "actual": 47214.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A94",
+        "expected": "2029-01-10 00:00:00",
+        "actual": 47244.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A95",
+        "expected": "2029-02-10 00:00:00",
+        "actual": 47275.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A96",
+        "expected": "2029-03-10 00:00:00",
+        "actual": 47305.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A97",
+        "expected": "2029-04-10 00:00:00",
+        "actual": 47336.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A98",
+        "expected": "2029-05-10 00:00:00",
+        "actual": 47367.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A99",
+        "expected": "2029-06-10 00:00:00",
+        "actual": 47397.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A100",
+        "expected": "2029-07-10 00:00:00",
+        "actual": 47428.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A101",
+        "expected": "2029-08-10 00:00:00",
+        "actual": 47458.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A102",
+        "expected": "2029-09-10 00:00:00",
+        "actual": 47489.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A103",
+        "expected": "2029-10-10 00:00:00",
+        "actual": 47520.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A104",
+        "expected": "2029-11-10 00:00:00",
+        "actual": 47548.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A105",
+        "expected": "2029-12-10 00:00:00",
+        "actual": 47579.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A106",
+        "expected": "2030-01-10 00:00:00",
+        "actual": 47609.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A107",
+        "expected": "2030-02-10 00:00:00",
+        "actual": 47640.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A108",
+        "expected": "2030-03-10 00:00:00",
+        "actual": 47670.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A109",
+        "expected": "2030-04-10 00:00:00",
+        "actual": 47701.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A110",
+        "expected": "2030-05-10 00:00:00",
+        "actual": 47732.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A111",
+        "expected": "2030-06-10 00:00:00",
+        "actual": 47762.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A112",
+        "expected": "2030-07-10 00:00:00",
+        "actual": 47793.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A113",
+        "expected": "2030-08-10 00:00:00",
+        "actual": 47823.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A114",
+        "expected": "2030-09-10 00:00:00",
+        "actual": 47854.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A115",
+        "expected": "2030-10-10 00:00:00",
+        "actual": 47885.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A116",
+        "expected": "2030-11-10 00:00:00",
+        "actual": 47913.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A117",
+        "expected": "2030-12-10 00:00:00",
+        "actual": 47944.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A118",
+        "expected": "2031-01-10 00:00:00",
+        "actual": 47974.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A119",
+        "expected": "2031-02-10 00:00:00",
+        "actual": 48005.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A120",
+        "expected": "2031-03-10 00:00:00",
+        "actual": 48035.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A121",
+        "expected": "2031-04-10 00:00:00",
+        "actual": 48066.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A122",
+        "expected": "2031-05-10 00:00:00",
+        "actual": 48097.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A123",
+        "expected": "2031-06-10 00:00:00",
+        "actual": 48127.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A124",
+        "expected": "2031-07-10 00:00:00",
+        "actual": 48158.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A125",
+        "expected": "2031-08-10 00:00:00",
+        "actual": 48188.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A126",
+        "expected": "2031-09-10 00:00:00",
+        "actual": 48219.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A127",
+        "expected": "2031-10-10 00:00:00",
+        "actual": 48250.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A128",
+        "expected": "2031-11-10 00:00:00",
+        "actual": 48279.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A129",
+        "expected": "2031-12-10 00:00:00",
+        "actual": 48310.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A130",
+        "expected": "2032-01-10 00:00:00",
+        "actual": 48340.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A131",
+        "expected": "2032-02-10 00:00:00",
+        "actual": 48371.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A132",
+        "expected": "2032-03-10 00:00:00",
+        "actual": 48401.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A133",
+        "expected": "2032-04-10 00:00:00",
+        "actual": 48432.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A134",
+        "expected": "2032-05-10 00:00:00",
+        "actual": 48463.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A135",
+        "expected": "2032-06-10 00:00:00",
+        "actual": 48493.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A136",
+        "expected": "2032-07-10 00:00:00",
+        "actual": 48524.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A137",
+        "expected": "2032-08-10 00:00:00",
+        "actual": 48554.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A138",
+        "expected": "2032-09-10 00:00:00",
+        "actual": 48585.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A139",
+        "expected": "2032-10-10 00:00:00",
+        "actual": 48616.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A140",
+        "expected": "2032-11-10 00:00:00",
+        "actual": 48644.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A141",
+        "expected": "2032-12-10 00:00:00",
+        "actual": 48675.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A142",
+        "expected": "2033-01-10 00:00:00",
+        "actual": 48705.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A143",
+        "expected": "2033-02-10 00:00:00",
+        "actual": 48736.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A144",
+        "expected": "2033-03-10 00:00:00",
+        "actual": 48766.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A145",
+        "expected": "2033-04-10 00:00:00",
+        "actual": 48797.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A146",
+        "expected": "2033-05-10 00:00:00",
+        "actual": 48828.0,
+        "failure_reason": "date_mismatch"
+      }
+    ],
+    "set_20": [
+      {
+        "cell": "Calculator!C10",
+        "expected": 8.118325347810476e-28,
+        "actual": 4239.886391102759,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D10",
+        "expected": 4.0389678347315805e-30,
+        "actual": 125.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E10",
+        "expected": 8.07793566946316e-28,
+        "actual": 4114.886391102759,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F10",
+        "expected": 8.077935669463161e-28,
+        "actual": 25000.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C11",
+        "expected": 9.013151722537222e-44,
+        "actual": 4239.886391102759,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D11",
+        "expected": 4.484155085839415e-46,
+        "actual": 104.42556804448621,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E11",
+        "expected": 8.968310171678828e-44,
+        "actual": 4135.4608230582735,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F11",
+        "expected": 8.96831017167883e-44,
+        "actual": 20885.11360889724,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C12",
+        "expected": 1.0006608566800715e-59,
+        "actual": 4239.886391102759,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D12",
+        "expected": 4.9784122222889135e-62,
+        "actual": 83.74826392919483,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E12",
+        "expected": 9.956824444577826e-60,
+        "actual": 4156.1381271735645,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F12",
+        "expected": 9.956824444577827e-60,
+        "actual": 16749.652785838967,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C13",
+        "expected": 1.1109567229273492e-75,
+        "actual": 4239.886391102759,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D13",
+        "expected": 5.527147875260445e-78,
+        "actual": 62.967573293327014,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E13",
+        "expected": 1.1054295750520888e-75,
+        "actual": 4176.918817809432,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F13",
+        "expected": 1.105429575052089e-75,
+        "actual": 12593.514658665403,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C14",
+        "expected": 1.2334097331560537e-91,
+        "actual": 4239.886391102759,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D14",
+        "expected": 6.136366831622158e-94,
+        "actual": 42.08297920427986,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E14",
+        "expected": 1.2272733663244315e-91,
+        "actual": 4197.80341189848,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F14",
+        "expected": 1.2272733663244316e-91,
+        "actual": 8416.59584085597,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C15",
+        "expected": 1.369359884546621e-107,
+        "actual": 4239.886391102279,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D15",
+        "expected": 6.812735744013041e-110,
+        "actual": 21.093962144787458,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E15",
+        "expected": 1.3625471488026081e-107,
+        "actual": 4218.792428957491,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F15",
+        "expected": 1.3625471488026082e-107,
+        "actual": 4218.792428957491,
+        "failure_reason": "numeric_tolerance_exceeded"
+      }
+    ],
+    "set_21": [
+      {
+        "cell": "Calculator!A3",
+        "expected": "2023-07-01 00:00:00",
+        "actual": 44933.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A4",
+        "expected": "2023-08-01 00:00:00",
+        "actual": 44964.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!A5",
+        "expected": "2023-09-01 00:00:00",
+        "actual": 44992.0,
+        "failure_reason": "date_mismatch"
+      },
+      {
+        "cell": "Calculator!C9",
+        "expected": 0,
+        "actual": 5058.446429076872,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D9",
+        "expected": 0,
+        "actual": 87.5,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E9",
+        "expected": 0,
+        "actual": 4970.946429076872,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F9",
+        "expected": 0,
+        "actual": 15000.0,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C10",
+        "expected": 0,
+        "actual": 5058.446429076872,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D10",
+        "expected": 0,
+        "actual": 58.502812497051586,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E10",
+        "expected": 0,
+        "actual": 4999.943616579821,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F10",
+        "expected": 0,
+        "actual": 10029.053570923128,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!C11",
+        "expected": 0,
+        "actual": 5058.446429076872,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!D11",
+        "expected": 0,
+        "actual": 29.336474733669295,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!E11",
+        "expected": 0,
+        "actual": 5029.109954343203,
+        "failure_reason": "numeric_tolerance_exceeded"
+      },
+      {
+        "cell": "Calculator!F11",
+        "expected": 0,
+        "actual": 5029.109954343307,
+        "failure_reason": "numeric_tolerance_exceeded"
+      }
+    ]
+  }
+}

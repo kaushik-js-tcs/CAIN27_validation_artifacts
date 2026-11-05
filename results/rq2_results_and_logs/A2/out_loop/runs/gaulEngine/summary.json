@@ -1,0 +1,12 @@
+{
+  "workbook_id": "gaulEngine",
+  "run_directory": "runs\\gaulEngine",
+  "pass_rate": 1.0,
+  "test_sets_passed": 32,
+  "test_sets_total": 32,
+  "total_cells": 66125,
+  "validated_cells": 66125,
+  "repair_calls": 0,
+  "elapsed_time_seconds": 318.623,
+  "llm_tokens_total": 0
+}

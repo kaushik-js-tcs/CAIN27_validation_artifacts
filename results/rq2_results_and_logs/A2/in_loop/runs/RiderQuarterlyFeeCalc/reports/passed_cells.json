@@ -1,0 +1,1775 @@
+{
+  "workbook_id": "RiderQuarterlyFeeCalc",
+  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\in_loop\\runs\\RiderQuarterlyFeeCalc\\logs\\RiderQuarterlyFeeCalc_20261026T142233.jsonl",
+  "total_passed_cells": 352,
+  "by_test_set": {
+    "set_0": [
+      {
+        "cell": "Quarterly Fee Calculation!B2",
+        "expected": 40000,
+        "actual": 40000
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B3",
+        "expected": 0.02925,
+        "actual": 0.02925
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 91,
+        "actual": 91
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B5",
+        "expected": 366,
+        "actual": 366
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 305.45,
+        "actual": 305.45
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 130.53,
+        "actual": 130.53
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 133.64,
+        "actual": 133.64
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2019-12-02 00:00:00",
+        "actual": "2019-12-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2020-03-02 00:00:00",
+        "actual": "2020-03-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2020-03-01 00:00:00",
+        "actual": "2020-03-01 00:00:00"
+      },
+      {
+        "cell": "Prorata deduction!B1",
+        "expected": 675000,
+        "actual": 675000
+      },
+      {
+        "cell": "Prorata deduction!B2",
+        "expected": 630000,
+        "actual": 630000
+      },
+      {
+        "cell": "Prorata deduction!B3",
+        "expected": 581000,
+        "actual": 581000
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 200,
+        "actual": 200
+      },
+      {
+        "cell": "Prorata deduction!C8",
+        "expected": 13.33,
+        "actual": 13.33
+      },
+      {
+        "cell": "Prorata deduction!D8",
+        "expected": 44986.67,
+        "actual": 44986.67
+      },
+      {
+        "cell": "Prorata deduction!C9",
+        "expected": 14.52,
+        "actual": 14.52
+      },
+      {
+        "cell": "Prorata deduction!D9",
+        "expected": 48985.48,
+        "actual": 48985.48
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 13.63,
+        "actual": 13.63
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 45986.37,
+        "actual": 45986.37
+      },
+      {
+        "cell": "Prorata deduction!E10",
+        "expected": 15.307687,
+        "actual": 15.307687
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 5.93,
+        "actual": 5.93
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 19994.07,
+        "actual": 19994.07
+      },
+      {
+        "cell": "Prorata deduction!E11",
+        "expected": 14.761156,
+        "actual": 14.761156
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 7.41,
+        "actual": 7.41
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 24992.59,
+        "actual": 24992.59
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 17.767959,
+        "actual": 17.767959
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 145.18,
+        "actual": 145.18
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 489854.82,
+        "actual": 489854.82
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 200,
+        "actual": 200
+      },
+      {
+        "cell": "Prorata deduction!C21",
+        "expected": 13.33,
+        "actual": 13.33
+      },
+      {
+        "cell": "Prorata deduction!D21",
+        "expected": 44986.67,
+        "actual": 44986.67
+      },
+      {
+        "cell": "Prorata deduction!F21",
+        "expected": 13.33,
+        "actual": 13.33
+      },
+      {
+        "cell": "Prorata deduction!C22",
+        "expected": 14.52,
+        "actual": 14.52
+      },
+      {
+        "cell": "Prorata deduction!D22",
+        "expected": 48985.48,
+        "actual": 48985.48
+      },
+      {
+        "cell": "Prorata deduction!F22",
+        "expected": 14.52,
+        "actual": 14.52
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 13.63,
+        "actual": 13.63
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 45986.37,
+        "actual": 45986.37
+      },
+      {
+        "cell": "Prorata deduction!E23",
+        "expected": 0.8439,
+        "actual": 0.8439
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 13.63,
+        "actual": 13.63
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 5.93,
+        "actual": 5.93
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 19994.07,
+        "actual": 19994.07
+      },
+      {
+        "cell": "Prorata deduction!E24",
+        "expected": 0.3914,
+        "actual": 0.3914
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 5.93,
+        "actual": 5.93
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 7.41,
+        "actual": 7.41
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 24992.59,
+        "actual": 24992.59
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 0.4077,
+        "actual": 0.4077
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 7.41,
+        "actual": 7.41
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 145.18,
+        "actual": 145.18
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 489854.82,
+        "actual": 489854.82
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 145.19,
+        "actual": 145.19
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 200,
+        "actual": 200
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 674800,
+        "actual": 674800
+      },
+      {
+        "cell": "Prorata deduction!B29",
+        "expected": 490000,
+        "actual": 490000
+      },
+      {
+        "cell": "Prorata deduction!C31",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D31",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C32",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D32",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C33",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D33",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C34",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D34",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C35",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D35",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C36",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "Prorata deduction!D36",
+        "expected": "Y",
+        "actual": "Y"
+      },
+      {
+        "cell": "Prorata deduction!C37",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "SP&EWA&OR!B2",
+        "expected": 40000,
+        "actual": 40000
+      },
+      {
+        "cell": "SP&EWA&OR!B3",
+        "expected": -2000,
+        "actual": -2000
+      },
+      {
+        "cell": "SP&EWA&OR!B4",
+        "expected": 0.02925,
+        "actual": 0.02925
+      },
+      {
+        "cell": "SP&EWA&OR!B5",
+        "expected": 24,
+        "actual": 24
+      },
+      {
+        "cell": "SP&EWA&OR!B6",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "SP&EWA&OR!B7",
+        "expected": -3.85,
+        "actual": -3.85
+      },
+      {
+        "cell": "SP&EWA&OR!B8",
+        "expected": -1.64,
+        "actual": -1.64
+      },
+      {
+        "cell": "SP&EWA&OR!B9",
+        "expected": -0.82,
+        "actual": -0.82
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 17000,
+        "actual": 17000
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Fund Transfer Adj!B5",
+        "expected": -0.00456,
+        "actual": -0.00456
+      },
+      {
+        "cell": "Fund Transfer Adj!B6",
+        "expected": 24,
+        "actual": 24
+      },
+      {
+        "cell": "Fund Transfer Adj!B7",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Fund Transfer Adj!B8",
+        "expected": -3.5980273972602737,
+        "actual": -3.5980273972602737
+      },
+      {
+        "cell": "Rider Termination!B2",
+        "expected": 40000,
+        "actual": 40000
+      },
+      {
+        "cell": "Rider Termination!B3",
+        "expected": 0.02925,
+        "actual": 0.02925
+      },
+      {
+        "cell": "Rider Termination!B4",
+        "expected": 24,
+        "actual": 24
+      },
+      {
+        "cell": "Rider Termination!B5",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Rider Termination!B6",
+        "expected": -23.08,
+        "actual": -23.08
+      },
+      {
+        "cell": "Rider Termination!B7",
+        "expected": -9.86,
+        "actual": -9.86
+      },
+      {
+        "cell": "Rider Termination!B8",
+        "expected": -10.68,
+        "actual": -10.68
+      }
+    ],
+    "set_1": [
+      {
+        "cell": "Quarterly Fee Calculation!B2",
+        "expected": 63000,
+        "actual": 63000
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B3",
+        "expected": 0.03168,
+        "actual": 0.03168
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 92,
+        "actual": 92
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B5",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 519.03,
+        "actual": 519.03
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 135.98,
+        "actual": 135.98
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 144.35,
+        "actual": 144.35
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2019-03-02 00:00:00",
+        "actual": "2019-03-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2019-06-02 00:00:00",
+        "actual": "2019-06-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2019-06-01 00:00:00",
+        "actual": "2019-06-01 00:00:00"
+      },
+      {
+        "cell": "Prorata deduction!B1",
+        "expected": 568000,
+        "actual": 568000
+      },
+      {
+        "cell": "Prorata deduction!B2",
+        "expected": 534000,
+        "actual": 534000
+      },
+      {
+        "cell": "Prorata deduction!B3",
+        "expected": 457000,
+        "actual": 457000
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 432,
+        "actual": 432
+      },
+      {
+        "cell": "Prorata deduction!C8",
+        "expected": 25.86,
+        "actual": 25.86
+      },
+      {
+        "cell": "Prorata deduction!D8",
+        "expected": 33974.14,
+        "actual": 33974.14
+      },
+      {
+        "cell": "Prorata deduction!C9",
+        "expected": 58.56,
+        "actual": 58.56
+      },
+      {
+        "cell": "Prorata deduction!D9",
+        "expected": 76941.44,
+        "actual": 76941.44
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 39.55,
+        "actual": 39.55
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 51960.45,
+        "actual": 51960.45
+      },
+      {
+        "cell": "Prorata deduction!E10",
+        "expected": 13.918616,
+        "actual": 13.918616
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 20.54,
+        "actual": 20.54
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 26979.46,
+        "actual": 26979.46
+      },
+      {
+        "cell": "Prorata deduction!E11",
+        "expected": 12.71837,
+        "actual": 12.71837
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 11.41,
+        "actual": 11.41
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 14988.59,
+        "actual": 14988.59
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 12.367206,
+        "actual": 12.367206
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 276.08000000000004,
+        "actual": 276.08000000000004
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 362723.92,
+        "actual": 362723.92
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 432,
+        "actual": 432
+      },
+      {
+        "cell": "Prorata deduction!C21",
+        "expected": 25.86,
+        "actual": 25.86
+      },
+      {
+        "cell": "Prorata deduction!D21",
+        "expected": 33974.14,
+        "actual": 33974.14
+      },
+      {
+        "cell": "Prorata deduction!F21",
+        "expected": 25.86,
+        "actual": 25.86
+      },
+      {
+        "cell": "Prorata deduction!C22",
+        "expected": 58.56,
+        "actual": 58.56
+      },
+      {
+        "cell": "Prorata deduction!D22",
+        "expected": 76941.44,
+        "actual": 76941.44
+      },
+      {
+        "cell": "Prorata deduction!F22",
+        "expected": 58.56,
+        "actual": 58.56
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 39.55,
+        "actual": 39.55
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 51960.45,
+        "actual": 51960.45
+      },
+      {
+        "cell": "Prorata deduction!E23",
+        "expected": 2.4206,
+        "actual": 2.4206
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 39.55,
+        "actual": 39.55
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 20.54,
+        "actual": 20.54
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 26979.46,
+        "actual": 26979.46
+      },
+      {
+        "cell": "Prorata deduction!E24",
+        "expected": 1.4497,
+        "actual": 1.4497
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 20.54,
+        "actual": 20.54
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 11.41,
+        "actual": 11.41
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 14988.59,
+        "actual": 14988.59
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 0.8625,
+        "actual": 0.8625
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 11.41,
+        "actual": 11.41
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 276.08000000000004,
+        "actual": 276.08000000000004
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 362723.92,
+        "actual": 362723.92
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 276.08,
+        "actual": 276.08
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 432,
+        "actual": 432
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 567568,
+        "actual": 567568
+      },
+      {
+        "cell": "Prorata deduction!B29",
+        "expected": 363000,
+        "actual": 363000
+      },
+      {
+        "cell": "Prorata deduction!C31",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D31",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C32",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D32",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C33",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D33",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C34",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D34",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C35",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D35",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C36",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "Prorata deduction!D36",
+        "expected": "Y",
+        "actual": "Y"
+      },
+      {
+        "cell": "Prorata deduction!C37",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "SP&EWA&OR!B2",
+        "expected": 43000,
+        "actual": 43000
+      },
+      {
+        "cell": "SP&EWA&OR!B3",
+        "expected": -6000,
+        "actual": -6000
+      },
+      {
+        "cell": "SP&EWA&OR!B4",
+        "expected": 0.03111,
+        "actual": 0.03111
+      },
+      {
+        "cell": "SP&EWA&OR!B5",
+        "expected": 15,
+        "actual": 15
+      },
+      {
+        "cell": "SP&EWA&OR!B6",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "SP&EWA&OR!B7",
+        "expected": -7.67,
+        "actual": -7.67
+      },
+      {
+        "cell": "SP&EWA&OR!B8",
+        "expected": -2.05,
+        "actual": -2.05
+      },
+      {
+        "cell": "SP&EWA&OR!B9",
+        "expected": -3.41,
+        "actual": -3.41
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 12000,
+        "actual": 12000
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Fund Transfer Adj!B5",
+        "expected": -0.00055,
+        "actual": -0.00055
+      },
+      {
+        "cell": "Fund Transfer Adj!B6",
+        "expected": 15,
+        "actual": 15
+      },
+      {
+        "cell": "Fund Transfer Adj!B7",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Fund Transfer Adj!B8",
+        "expected": -0.8815068493150685,
+        "actual": -0.8815068493150685
+      },
+      {
+        "cell": "Rider Termination!B2",
+        "expected": 95000,
+        "actual": 95000
+      },
+      {
+        "cell": "Rider Termination!B3",
+        "expected": 0.0309,
+        "actual": 0.0309
+      },
+      {
+        "cell": "Rider Termination!B4",
+        "expected": 45,
+        "actual": 45
+      },
+      {
+        "cell": "Rider Termination!B5",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Rider Termination!B6",
+        "expected": -380.96,
+        "actual": -380.96
+      },
+      {
+        "cell": "Rider Termination!B7",
+        "expected": -104.79,
+        "actual": -104.79
+      },
+      {
+        "cell": "Rider Termination!B8",
+        "expected": -106.89,
+        "actual": -106.89
+      }
+    ],
+    "set_2": [
+      {
+        "cell": "Quarterly Fee Calculation!B2",
+        "expected": 76000,
+        "actual": 76000
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B3",
+        "expected": 0.03034,
+        "actual": 0.03034
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 91,
+        "actual": 91
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B5",
+        "expected": 366,
+        "actual": 366
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 641.2,
+        "actual": 641.2
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 342.37,
+        "actual": 342.37
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 358.48,
+        "actual": 358.48
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2019-12-02 00:00:00",
+        "actual": "2019-12-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2020-03-02 00:00:00",
+        "actual": "2020-03-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2020-06-01 00:00:00",
+        "actual": "2020-06-01 00:00:00"
+      },
+      {
+        "cell": "Prorata deduction!B1",
+        "expected": 690000,
+        "actual": 690000
+      },
+      {
+        "cell": "Prorata deduction!B2",
+        "expected": 657000,
+        "actual": 657000
+      },
+      {
+        "cell": "Prorata deduction!B3",
+        "expected": 574000,
+        "actual": 574000
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 146,
+        "actual": 146
+      },
+      {
+        "cell": "Prorata deduction!C8",
+        "expected": 6.98,
+        "actual": 6.98
+      },
+      {
+        "cell": "Prorata deduction!D8",
+        "expected": 32993.02,
+        "actual": 32993.02
+      },
+      {
+        "cell": "Prorata deduction!C9",
+        "expected": 17.56,
+        "actual": 17.56
+      },
+      {
+        "cell": "Prorata deduction!D9",
+        "expected": 82982.44,
+        "actual": 82982.44
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 8.46,
+        "actual": 8.46
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 39991.54,
+        "actual": 39991.54
+      },
+      {
+        "cell": "Prorata deduction!E10",
+        "expected": 13.081913,
+        "actual": 13.081913
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 8.25,
+        "actual": 8.25
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 38991.75,
+        "actual": 38991.75
+      },
+      {
+        "cell": "Prorata deduction!E11",
+        "expected": 17.972621999999998,
+        "actual": 17.972621999999998
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 5.08,
+        "actual": 5.08
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 23994.92,
+        "actual": 23994.92
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 13.576724,
+        "actual": 13.576724
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 99.67,
+        "actual": 99.67
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 470900.33,
+        "actual": 470900.33
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 146,
+        "actual": 146
+      },
+      {
+        "cell": "Prorata deduction!C21",
+        "expected": 6.98,
+        "actual": 6.98
+      },
+      {
+        "cell": "Prorata deduction!D21",
+        "expected": 32993.02,
+        "actual": 32993.02
+      },
+      {
+        "cell": "Prorata deduction!F21",
+        "expected": 6.98,
+        "actual": 6.98
+      },
+      {
+        "cell": "Prorata deduction!C22",
+        "expected": 17.56,
+        "actual": 17.56
+      },
+      {
+        "cell": "Prorata deduction!D22",
+        "expected": 82982.44,
+        "actual": 82982.44
+      },
+      {
+        "cell": "Prorata deduction!F22",
+        "expected": 17.56,
+        "actual": 17.56
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 8.46,
+        "actual": 8.46
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 39991.54,
+        "actual": 39991.54
+      },
+      {
+        "cell": "Prorata deduction!E23",
+        "expected": 0.6175,
+        "actual": 0.6175
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 8.46,
+        "actual": 8.46
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 8.25,
+        "actual": 8.25
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 38991.75,
+        "actual": 38991.75
+      },
+      {
+        "cell": "Prorata deduction!E24",
+        "expected": 0.4479,
+        "actual": 0.4479
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 8.25,
+        "actual": 8.25
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 5.08,
+        "actual": 5.08
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 23994.92,
+        "actual": 23994.92
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 0.3644,
+        "actual": 0.3644
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 5.08,
+        "actual": 5.08
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 99.67,
+        "actual": 99.67
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 470900.33,
+        "actual": 470900.33
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 99.66,
+        "actual": 99.66
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 146,
+        "actual": 146
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 689854,
+        "actual": 689854
+      },
+      {
+        "cell": "Prorata deduction!B29",
+        "expected": 471000,
+        "actual": 471000
+      },
+      {
+        "cell": "Prorata deduction!C31",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D31",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C32",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D32",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C33",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D33",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C34",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D34",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C35",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D35",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C36",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "Prorata deduction!D36",
+        "expected": "Y",
+        "actual": "Y"
+      },
+      {
+        "cell": "Prorata deduction!C37",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "SP&EWA&OR!B2",
+        "expected": 16000,
+        "actual": 16000
+      },
+      {
+        "cell": "SP&EWA&OR!B3",
+        "expected": -9000,
+        "actual": -9000
+      },
+      {
+        "cell": "SP&EWA&OR!B4",
+        "expected": 0.02925,
+        "actual": 0.02925
+      },
+      {
+        "cell": "SP&EWA&OR!B5",
+        "expected": 33,
+        "actual": 33
+      },
+      {
+        "cell": "SP&EWA&OR!B6",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "SP&EWA&OR!B7",
+        "expected": -23.8,
+        "actual": -23.8
+      },
+      {
+        "cell": "SP&EWA&OR!B8",
+        "expected": -13.18,
+        "actual": -13.18
+      },
+      {
+        "cell": "SP&EWA&OR!B9",
+        "expected": -2.93,
+        "actual": -2.93
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 15000,
+        "actual": 15000
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Fund Transfer Adj!B5",
+        "expected": -0.00341,
+        "actual": -0.00341
+      },
+      {
+        "cell": "Fund Transfer Adj!B6",
+        "expected": 28,
+        "actual": 28
+      },
+      {
+        "cell": "Fund Transfer Adj!B7",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Fund Transfer Adj!B8",
+        "expected": -17.003287671232876,
+        "actual": -17.003287671232876
+      },
+      {
+        "cell": "Rider Termination!B2",
+        "expected": 139000,
+        "actual": 139000
+      },
+      {
+        "cell": "Rider Termination!B3",
+        "expected": 0.02933,
+        "actual": 0.02933
+      },
+      {
+        "cell": "Rider Termination!B4",
+        "expected": 34,
+        "actual": 34
+      },
+      {
+        "cell": "Rider Termination!B5",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Rider Termination!B6",
+        "expected": -65.57,
+        "actual": -65.57
+      },
+      {
+        "cell": "Rider Termination!B7",
+        "expected": -35.1,
+        "actual": -35.1
+      },
+      {
+        "cell": "Rider Termination!B8",
+        "expected": -46.8,
+        "actual": -46.8
+      }
+    ],
+    "set_3": [
+      {
+        "cell": "Quarterly Fee Calculation!B2",
+        "expected": 117000,
+        "actual": 117000
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B3",
+        "expected": 0.03117,
+        "actual": 0.03117
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B4",
+        "expected": 90,
+        "actual": 90
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B5",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B6",
+        "expected": 999.15,
+        "actual": 999.15
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B7",
+        "expected": 282.08,
+        "actual": 282.08
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B8",
+        "expected": 305.95,
+        "actual": 305.95
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B12",
+        "expected": "2021-01-02 00:00:00",
+        "actual": "2021-01-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B13",
+        "expected": "2021-04-02 00:00:00",
+        "actual": "2021-04-02 00:00:00"
+      },
+      {
+        "cell": "Quarterly Fee Calculation!B14",
+        "expected": "2021-04-01 00:00:00",
+        "actual": "2021-04-01 00:00:00"
+      },
+      {
+        "cell": "Prorata deduction!B1",
+        "expected": 1090000,
+        "actual": 1090000
+      },
+      {
+        "cell": "Prorata deduction!B2",
+        "expected": 1010000,
+        "actual": 1010000
+      },
+      {
+        "cell": "Prorata deduction!B3",
+        "expected": 920000,
+        "actual": 920000
+      },
+      {
+        "cell": "Prorata deduction!B4",
+        "expected": 291,
+        "actual": 291
+      },
+      {
+        "cell": "Prorata deduction!C8",
+        "expected": 21.36,
+        "actual": 21.36
+      },
+      {
+        "cell": "Prorata deduction!D8",
+        "expected": 79978.64,
+        "actual": 79978.64
+      },
+      {
+        "cell": "Prorata deduction!C9",
+        "expected": 24.03,
+        "actual": 24.03
+      },
+      {
+        "cell": "Prorata deduction!D9",
+        "expected": 89975.97,
+        "actual": 89975.97
+      },
+      {
+        "cell": "Prorata deduction!C10",
+        "expected": 6.67,
+        "actual": 6.67
+      },
+      {
+        "cell": "Prorata deduction!D10",
+        "expected": 24993.33,
+        "actual": 24993.33
+      },
+      {
+        "cell": "Prorata deduction!E10",
+        "expected": 24.192844,
+        "actual": 24.192844
+      },
+      {
+        "cell": "Prorata deduction!C11",
+        "expected": 6.94,
+        "actual": 6.94
+      },
+      {
+        "cell": "Prorata deduction!D11",
+        "expected": 25993.06,
+        "actual": 25993.06
+      },
+      {
+        "cell": "Prorata deduction!E11",
+        "expected": 23.643702,
+        "actual": 23.643702
+      },
+      {
+        "cell": "Prorata deduction!C12",
+        "expected": 12.81,
+        "actual": 12.81
+      },
+      {
+        "cell": "Prorata deduction!D12",
+        "expected": 47987.19,
+        "actual": 47987.19
+      },
+      {
+        "cell": "Prorata deduction!E12",
+        "expected": 20.728378,
+        "actual": 20.728378
+      },
+      {
+        "cell": "Prorata deduction!C13",
+        "expected": 219.19,
+        "actual": 219.19
+      },
+      {
+        "cell": "Prorata deduction!D13",
+        "expected": 820780.81,
+        "actual": 820780.81
+      },
+      {
+        "cell": "Prorata deduction!C14",
+        "expected": 291,
+        "actual": 291
+      },
+      {
+        "cell": "Prorata deduction!C21",
+        "expected": 21.36,
+        "actual": 21.36
+      },
+      {
+        "cell": "Prorata deduction!D21",
+        "expected": 79978.64,
+        "actual": 79978.64
+      },
+      {
+        "cell": "Prorata deduction!F21",
+        "expected": 21.36,
+        "actual": 21.36
+      },
+      {
+        "cell": "Prorata deduction!C22",
+        "expected": 24.03,
+        "actual": 24.03
+      },
+      {
+        "cell": "Prorata deduction!D22",
+        "expected": 89975.97,
+        "actual": 89975.97
+      },
+      {
+        "cell": "Prorata deduction!F22",
+        "expected": 24.03,
+        "actual": 24.03
+      },
+      {
+        "cell": "Prorata deduction!C23",
+        "expected": 6.67,
+        "actual": 6.67
+      },
+      {
+        "cell": "Prorata deduction!D23",
+        "expected": 24993.33,
+        "actual": 24993.33
+      },
+      {
+        "cell": "Prorata deduction!E23",
+        "expected": 0.2726,
+        "actual": 0.2726
+      },
+      {
+        "cell": "Prorata deduction!F23",
+        "expected": 6.67,
+        "actual": 6.67
+      },
+      {
+        "cell": "Prorata deduction!C24",
+        "expected": 6.94,
+        "actual": 6.94
+      },
+      {
+        "cell": "Prorata deduction!D24",
+        "expected": 25993.06,
+        "actual": 25993.06
+      },
+      {
+        "cell": "Prorata deduction!E24",
+        "expected": 0.29,
+        "actual": 0.29
+      },
+      {
+        "cell": "Prorata deduction!F24",
+        "expected": 6.94,
+        "actual": 6.94
+      },
+      {
+        "cell": "Prorata deduction!C25",
+        "expected": 12.81,
+        "actual": 12.81
+      },
+      {
+        "cell": "Prorata deduction!D25",
+        "expected": 47987.19,
+        "actual": 47987.19
+      },
+      {
+        "cell": "Prorata deduction!E25",
+        "expected": 0.6006,
+        "actual": 0.6006
+      },
+      {
+        "cell": "Prorata deduction!F25",
+        "expected": 12.81,
+        "actual": 12.81
+      },
+      {
+        "cell": "Prorata deduction!C26",
+        "expected": 219.19,
+        "actual": 219.19
+      },
+      {
+        "cell": "Prorata deduction!D26",
+        "expected": 820780.81,
+        "actual": 820780.81
+      },
+      {
+        "cell": "Prorata deduction!F26",
+        "expected": 219.18,
+        "actual": 219.18
+      },
+      {
+        "cell": "Prorata deduction!C27",
+        "expected": 291,
+        "actual": 291
+      },
+      {
+        "cell": "Prorata deduction!D27",
+        "expected": 1089709,
+        "actual": 1089709
+      },
+      {
+        "cell": "Prorata deduction!B29",
+        "expected": 821000,
+        "actual": 821000
+      },
+      {
+        "cell": "Prorata deduction!C31",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D31",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C32",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D32",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C33",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D33",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C34",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D34",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C35",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Prorata deduction!D35",
+        "expected": "N",
+        "actual": "N"
+      },
+      {
+        "cell": "Prorata deduction!C36",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "Prorata deduction!D36",
+        "expected": "Y",
+        "actual": "Y"
+      },
+      {
+        "cell": "Prorata deduction!C37",
+        "expected": 1,
+        "actual": 1
+      },
+      {
+        "cell": "SP&EWA&OR!B2",
+        "expected": 41000,
+        "actual": 41000
+      },
+      {
+        "cell": "SP&EWA&OR!B3",
+        "expected": 9000,
+        "actual": 9000
+      },
+      {
+        "cell": "SP&EWA&OR!B4",
+        "expected": 0.03053,
+        "actual": 0.03053
+      },
+      {
+        "cell": "SP&EWA&OR!B5",
+        "expected": 35,
+        "actual": 35
+      },
+      {
+        "cell": "SP&EWA&OR!B6",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "SP&EWA&OR!B7",
+        "expected": 26.35,
+        "actual": 26.35
+      },
+      {
+        "cell": "SP&EWA&OR!B8",
+        "expected": 7.59,
+        "actual": 7.59
+      },
+      {
+        "cell": "SP&EWA&OR!B9",
+        "expected": 1.69,
+        "actual": 1.69
+      },
+      {
+        "cell": "Fund Transfer Adj!B2",
+        "expected": 28000,
+        "actual": 28000
+      },
+      {
+        "cell": "Fund Transfer Adj!B3",
+        "expected": 0,
+        "actual": 0
+      },
+      {
+        "cell": "Fund Transfer Adj!B5",
+        "expected": 0.00309,
+        "actual": 0.00309
+      },
+      {
+        "cell": "Fund Transfer Adj!B6",
+        "expected": 56,
+        "actual": 56
+      },
+      {
+        "cell": "Fund Transfer Adj!B7",
+        "expected": 365,
+        "actual": 365
+      },
+      {
+        "cell": "Fund Transfer Adj!B8",
+        "expected": 39.348821917808216,
+        "actual": 39.348821917808216
+      },
+      {
+        "cell": "Rider Termination!B2",
+        "expected": 35000,
+        "actual": 35000
+      },
+      {
+        "cell": "Rider Termination!B3",
+        "expected": 0.03018,
+        "actual": 0.03018
+      },
+      {
+        "cell": "Rider Termination!B4",
+        "expected": 14,
+        "actual": 14
+      },
+      {
+        "cell": "Rider Termination!B5",
+        "expected": 366,
+        "actual": 366
+      },
+      {
+        "cell": "Rider Termination!B6",
+        "expected": -28.86,
+        "actual": -28.86
+      },
+      {
+        "cell": "Rider Termination!B7",
+        "expected": -14.06,
+        "actual": -14.06
+      },
+      {
+        "cell": "Rider Termination!B8",
+        "expected": -18.56,
+        "actual": -18.56
+      }
+    ]
+  }
+}

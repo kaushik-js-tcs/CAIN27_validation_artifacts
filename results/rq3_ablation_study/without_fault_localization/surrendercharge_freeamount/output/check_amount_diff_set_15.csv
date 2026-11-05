@@ -1,0 +1,9 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Check Amount,B,3,XlNumber,12500,12500.0,MATCH,normal_cell,set_15
+Check Amount,B,4,XlNumber,25,25.0,MATCH,normal_cell,set_15
+Check Amount,B,5,XlNumber,48000,48000.0,MATCH,normal_cell,set_15
+Check Amount,B,6,XlNumber,35475,35475.0,MATCH,normal_cell,set_15
+Check Amount,B,10,XlNumber,12500,12500.0,MATCH,normal_cell,set_15
+Check Amount,B,11,XlNumber,25,25.0,MATCH,normal_cell,set_15
+Check Amount,B,12,XlNumber,48000,48000.0,MATCH,normal_cell,set_15
+Check Amount,B,13,XlNumber,35475,35475.0,MATCH,normal_cell,set_15

@@ -1,0 +1,77 @@
+# Summary for output\result_1791049092/policyvalue_cashvalue_mrcv_premiumtax/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 78
+	- prompt_tokens: 655933
+	- response_tokens: 36585
+	- total_tokens: 692518
+	- average_prompt_tokens: 8409.4
+	- average_response_tokens: 469.04
+	- average_total_tokens: 8878.44
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Adjusted Policy Value:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name After_repair_utilities:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'nan': 1}
+## Sheet_name Cash Value:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Fixed Account:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name MRCV:
+	- total_rows 64
+	- total_unique_modules 2
+	- repair_module_rows 63
+	- repair_modules {'COMPILE_error_repair': 63}
+	- all_modules {'COMPILE_error_repair': 63, 'code_generation': 1}
+## Sheet_name Policy Value:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Separate Account:
+	- total_rows 3
+	- total_unique_modules 2
+	- repair_module_rows 2
+	- repair_modules {'normal_cell_repair': 2}
+	- all_modules {'normal_cell_repair': 2, 'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 6
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'Code Generation': 6}
+## Overall Repairs: 65
+## Detailed Repairs: {'COMPILE_error_repair': 63, 'normal_cell_repair': 2}
+─────────────────────────
+# Scenarios validation summary
+	-adjusted_policy_value: 0 -> []
+	-cash_value: 0 -> []
+	-fixed_account: 0 -> []
+	-mrcv: 1 -> ['set_0']
+	-policy_value: 0 -> []
+	-separate_account: 0 -> []
+Final status: 1
+─────────────────────────
+[TIME]: Preprocessing time: 357.33 seconds
+[TIME]: Seed Synthesis time: 388.02 seconds
+[TIME]: Validation on scenarios time: 810.45 seconds
+[TIME]: Total: [357.33, 388.02, 810.45]

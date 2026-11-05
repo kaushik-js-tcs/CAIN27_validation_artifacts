@@ -1,0 +1,26 @@
+{
+  "final_status": "SUCCESS",
+  "final_message": "All scenarios passed Excel-vs-Java comparison.",
+  "compile_success": true,
+  "run_success": true,
+  "compare_success": true,
+  "scenario_total_count": 4,
+  "scenario_pass_count": 4,
+  "scenario_fail_count": 0,
+  "scenario_all_passed": true,
+  "scenario_some_passed": false,
+  "scenario_none_passed": false,
+  "passed_scenario_ids": [
+    "set_0",
+    "set_1",
+    "set_2",
+    "set_3"
+  ],
+  "failed_scenario_ids": [],
+  "matched_count": 348,
+  "unmatched_count": 0,
+  "total_compared_count": 348,
+  "time_in_sec": 126,
+  "total_tokens": 65238,
+  "repair_attempts": 1
+}

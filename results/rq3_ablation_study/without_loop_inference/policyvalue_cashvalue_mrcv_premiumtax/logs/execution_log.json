@@ -1,0 +1,674 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791049092"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 6"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 6 out of 6"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 6 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "separate_account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 19,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "fixed_account",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 20,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 21,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 22,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 23,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 24,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 25,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 26,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 27,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 28,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 29,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 30,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 31,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 32,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 33,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 34,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 35,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]"
+    },
+    {
+        "id": 36,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 37,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "policy_value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 38,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 39,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "adjusted_policy_value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 40,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 41,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 42,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "Validating scenarios for separate_account"
+    },
+    {
+        "id": 43,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[FAILED] Validation failed repairing separate_account"
+    },
+    {
+        "id": 44,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[FAILED] Validation failed repairing separate_account"
+    },
+    {
+        "id": 45,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Separate Account",
+        "remarks": "[SUCCESS] Passed all scenarios for separate_account"
+    },
+    {
+        "id": 46,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "Validating scenarios for fixed_account"
+    },
+    {
+        "id": 47,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Fixed Account",
+        "remarks": "[SUCCESS] Passed all scenarios for fixed_account"
+    },
+    {
+        "id": 48,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "Validating scenarios for mrcv"
+    },
+    {
+        "id": 49,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 50,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 51,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 52,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 53,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 54,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 55,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 56,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 57,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 58,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 59,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 60,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 61,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 62,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 63,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 64,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 65,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 66,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 67,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 68,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 69,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 70,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 71,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 72,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 73,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 74,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 75,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 76,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 77,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 78,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 79,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 80,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 81,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 82,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 83,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 84,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 85,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 86,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 87,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 88,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 89,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 90,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 91,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 92,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 93,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 94,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 95,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 96,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 97,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "MRCV",
+        "remarks": "[FAILED] Validation failed repairing mrcv"
+    },
+    {
+        "id": 98,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 99,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 100,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 101,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 102,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 103,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 104,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "mrcv",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 105,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "Validating scenarios for policy_value"
+    },
+    {
+        "id": 106,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Policy Value",
+        "remarks": "[SUCCESS] Passed all scenarios for policy_value"
+    },
+    {
+        "id": 107,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "Validating scenarios for adjusted_policy_value"
+    },
+    {
+        "id": 108,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Adjusted Policy Value",
+        "remarks": "[SUCCESS] Passed all scenarios for adjusted_policy_value"
+    },
+    {
+        "id": 109,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "Validating scenarios for cash_value"
+    },
+    {
+        "id": 110,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS] Passed all scenarios for cash_value"
+    },
+    {
+        "id": 111,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791049092/logs/summary.txt"
+    }
+]

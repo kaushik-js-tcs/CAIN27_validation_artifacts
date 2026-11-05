@@ -1,0 +1,82 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+Fixed Account,A,8,XlText,Premium,Premium,MATCH,normal_cell,set_19
+Fixed Account,A,9,XlText,Withdrawal,Withdrawal,MATCH,normal_cell,set_19
+Fixed Account,A,10,XlText,Separate Account Fund Transfer,Separate Account Fund Transfer,MATCH,normal_cell,set_19
+Fixed Account,A,11,XlText,Separate Account Fund Transfer,Separate Account Fund Transfer,MATCH,normal_cell,set_19
+Fixed Account,A,12,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,13,XlText,Withdrawal,Withdrawal,MATCH,normal_cell,set_19
+Fixed Account,A,14,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,15,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,16,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,17,XlText,Full Surrender,Full Surrender,MATCH,normal_cell,set_19
+Fixed Account,A,23,XlDateSerial,43136.0,43136.0,MATCH,normal_cell,set_19
+Fixed Account,A,24,XlDateSerial,43225.0,43225.0,MATCH,normal_cell,set_19
+Fixed Account,A,25,XlDateSerial,43317.0,43317.0,MATCH,normal_cell,set_19
+Fixed Account,A,26,XlDateSerial,43409.0,43409.0,MATCH,normal_cell,set_19
+Fixed Account,A,27,XlDateSerial,43501.0,43501.0,MATCH,normal_cell,set_19
+Fixed Account,A,28,XlDateSerial,43590.0,43590.0,MATCH,normal_cell,set_19
+Fixed Account,A,29,XlDateSerial,43682.0,43682.0,MATCH,normal_cell,set_19
+Fixed Account,A,30,XlDateSerial,43774.0,43774.0,MATCH,normal_cell,set_19
+Fixed Account,A,31,XlDateSerial,43866.0,43866.0,MATCH,normal_cell,set_19
+Fixed Account,A,32,XlDateSerial,43956.0,43956.0,MATCH,normal_cell,set_19
+Fixed Account,A,37,XlText,Premium,Premium,MATCH,normal_cell,set_19
+Fixed Account,A,38,XlText,Withdrawal,Withdrawal,MATCH,normal_cell,set_19
+Fixed Account,A,39,XlText,Separate Account Fund Transfer,Separate Account Fund Transfer,MATCH,normal_cell,set_19
+Fixed Account,A,40,XlText,Separate Account Fund Transfer,Separate Account Fund Transfer,MATCH,normal_cell,set_19
+Fixed Account,A,41,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,42,XlText,Withdrawal,Withdrawal,MATCH,normal_cell,set_19
+Fixed Account,A,43,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,44,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,45,XlText,Valuation Only,Valuation Only,MATCH,normal_cell,set_19
+Fixed Account,A,46,XlText,Full Surrender,Full Surrender,MATCH,normal_cell,set_19
+Fixed Account,B,4,XlDateSerial,43136.0,43136.0,MATCH,normal_cell,set_19
+Fixed Account,B,8,XlDateSerial,43136.0,43136.0,MATCH,normal_cell,set_19
+Fixed Account,B,9,XlDateSerial,43225.0,43225.0,MATCH,normal_cell,set_19
+Fixed Account,B,10,XlDateSerial,43317.0,43317.0,MATCH,normal_cell,set_19
+Fixed Account,B,11,XlDateSerial,43409.0,43409.0,MATCH,normal_cell,set_19
+Fixed Account,B,12,XlDateSerial,43501.0,43501.0,MATCH,normal_cell,set_19
+Fixed Account,B,13,XlDateSerial,43590.0,43590.0,MATCH,normal_cell,set_19
+Fixed Account,B,14,XlDateSerial,43682.0,43682.0,MATCH,normal_cell,set_19
+Fixed Account,B,15,XlDateSerial,43774.0,43774.0,MATCH,normal_cell,set_19
+Fixed Account,B,16,XlDateSerial,43866.0,43866.0,MATCH,normal_cell,set_19
+Fixed Account,B,17,XlDateSerial,43956.0,43956.0,MATCH,normal_cell,set_19
+Fixed Account,B,23,XlNumber,7500,7500.0,MATCH,normal_cell,set_19
+Fixed Account,B,24,XlNumber,7349.6,7349.6,MATCH,normal_cell,set_19
+Fixed Account,B,25,XlNumber,7399.84,7399.84,MATCH,normal_cell,set_19
+Fixed Account,B,26,XlNumber,7450.43,7450.43,MATCH,normal_cell,set_19
+Fixed Account,B,27,XlNumber,7501.37,7501.37,MATCH,normal_cell,set_19
+Fixed Account,B,28,XlNumber,7300.98,7300.98,MATCH,normal_cell,set_19
+Fixed Account,B,29,XlNumber,7350.89,7350.89,MATCH,normal_cell,set_19
+Fixed Account,B,30,XlNumber,7401.15,7401.15,MATCH,normal_cell,set_19
+Fixed Account,B,31,XlNumber,7451.74,7451.74,MATCH,normal_cell,set_19
+Fixed Account,B,32,XlNumber,7451.58,7451.58,MATCH,normal_cell,set_19
+Fixed Account,B,37,XlDateSerial,43136.0,43136.0,MATCH,normal_cell,set_19
+Fixed Account,B,38,XlDateSerial,43225.0,43225.0,MATCH,normal_cell,set_19
+Fixed Account,B,39,XlDateSerial,43317.0,43317.0,MATCH,normal_cell,set_19
+Fixed Account,B,40,XlDateSerial,43409.0,43409.0,MATCH,normal_cell,set_19
+Fixed Account,B,41,XlDateSerial,43501.0,43501.0,MATCH,normal_cell,set_19
+Fixed Account,B,42,XlDateSerial,43590.0,43590.0,MATCH,normal_cell,set_19
+Fixed Account,B,43,XlDateSerial,43682.0,43682.0,MATCH,normal_cell,set_19
+Fixed Account,B,44,XlDateSerial,43774.0,43774.0,MATCH,normal_cell,set_19
+Fixed Account,B,45,XlDateSerial,43866.0,43866.0,MATCH,normal_cell,set_19
+Fixed Account,B,46,XlDateSerial,43956.0,43956.0,MATCH,normal_cell,set_19
+Fixed Account,C,37,XlNumber,7500,7500.0,MATCH,normal_cell,set_19
+Fixed Account,C,38,XlNumber,7549.597297530121,7549.597297530121,MATCH,normal_cell,set_19
+Fixed Account,C,39,XlNumber,7399.843866620427,7399.843866620427,MATCH,normal_cell,set_19
+Fixed Account,C,40,XlNumber,7450.433953539417,7450.433953539417,MATCH,normal_cell,set_19
+Fixed Account,C,41,XlNumber,7501.36990679567,7501.36990679567,MATCH,normal_cell,set_19
+Fixed Account,C,42,XlNumber,7550.976263482449,7550.976263482449,MATCH,normal_cell,set_19
+Fixed Account,C,43,XlNumber,7350.890427945996,7350.890427945996,MATCH,normal_cell,set_19
+Fixed Account,C,44,XlNumber,7401.145837706635,7401.145837706635,MATCH,normal_cell,set_19
+Fixed Account,C,45,XlNumber,7451.7448257364595,7451.7448257364595,MATCH,normal_cell,set_19
+Fixed Account,C,46,XlNumber,7501.578547909074,7501.578547909074,MATCH,normal_cell,set_19
+Fixed Account,D,37,XlNumber,7500,7500.0,MATCH,normal_cell,set_19
+Fixed Account,D,38,XlNumber,7349.597297530121,7349.597297530121,MATCH,normal_cell,set_19
+Fixed Account,D,39,XlNumber,7399.843866620427,7399.843866620427,MATCH,normal_cell,set_19
+Fixed Account,D,40,XlNumber,7450.433953539417,7450.433953539417,MATCH,normal_cell,set_19
+Fixed Account,D,41,XlNumber,7501.36990679567,7501.36990679567,MATCH,normal_cell,set_19
+Fixed Account,D,42,XlNumber,7300.976263482449,7300.976263482449,MATCH,normal_cell,set_19
+Fixed Account,D,43,XlNumber,7350.890427945996,7350.890427945996,MATCH,normal_cell,set_19
+Fixed Account,D,44,XlNumber,7401.145837706635,7401.145837706635,MATCH,normal_cell,set_19
+Fixed Account,D,45,XlNumber,7451.7448257364595,7451.7448257364595,MATCH,normal_cell,set_19
+Fixed Account,D,46,XlNumber,7451.578547909074,7451.578547909074,MATCH,normal_cell,set_19

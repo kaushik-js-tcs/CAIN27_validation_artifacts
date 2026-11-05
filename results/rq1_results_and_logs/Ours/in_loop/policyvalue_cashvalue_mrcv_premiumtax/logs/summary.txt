@@ -1,0 +1,71 @@
+# Summary for output\result_1790954939/policyvalue_cashvalue_mrcv_premiumtax/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 15
+	- prompt_tokens: 63138
+	- response_tokens: 38958
+	- total_tokens: 102096
+	- average_prompt_tokens: 4209.2
+	- average_response_tokens: 2597.2
+	- average_total_tokens: 6806.4
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Adjusted Policy Value:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Cash Value:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Fixed Account:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name MRCV:
+	- total_rows 3
+	- total_unique_modules 3
+	- repair_module_rows 1
+	- repair_modules {'loop_repair': 1}
+	- all_modules {'loop_enchancement': 1, 'code_generation': 1, 'loop_repair': 1}
+## Sheet_name Policy Value:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Separate Account:
+	- total_rows 2
+	- total_unique_modules 2
+	- repair_module_rows 1
+	- repair_modules {'normal_cell_repair': 1}
+	- all_modules {'code_generation': 1, 'normal_cell_repair': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 6
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'Code Generation': 6}
+## Overall Repairs: 2
+## Detailed Repairs: {'loop_repair': 1, 'normal_cell_repair': 1}
+─────────────────────────
+# Scenarios validation summary
+	-adjusted_policy_value: 0 -> []
+	-cash_value: 0 -> []
+	-fixed_account: 0 -> []
+	-mrcv_A_13_H_850: 0 -> []
+	-policy_value: 0 -> []
+	-separate_account: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 465.33 seconds
+[TIME]: Seed Synthesis time: 393.36 seconds
+[TIME]: Validation on scenarios time: 321.66 seconds
+[TIME]: Total: [465.33, 393.36, 321.66]

@@ -1,0 +1,1262 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1791085651"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 12"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 11 out of 12"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 12 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Premium",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Premium",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Output",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Output",
+        "remarks": "[SUCCESS] found 0 blocks."
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Premium",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "premium",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 19,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 20,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 21,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 22,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 23,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 24,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 25,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 26,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 27,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]"
+    },
+    {
+        "id": 28,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Output",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 29,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 30,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 31,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 32,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 33,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 34,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 35,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 36,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 37,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 38,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 39,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 40,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 41,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 42,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 43,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "output",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 44,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Premium",
+        "remarks": "Validating scenarios for premium"
+    },
+    {
+        "id": 45,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Premium",
+        "remarks": "[SUCCESS] Passed all scenarios for premium"
+    },
+    {
+        "id": 46,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "Validating scenarios for cash_value"
+    },
+    {
+        "id": 47,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 48,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 49,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 50,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 51,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 52,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 53,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 54,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 55,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 56,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 57,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 58,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 59,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 60,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 61,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 62,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 63,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 64,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 65,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 66,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 67,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 68,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 69,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 70,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 71,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 72,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 73,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 74,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 75,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 76,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 77,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 78,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 79,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 80,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 81,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 82,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 83,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 84,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 85,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 86,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 87,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 88,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 89,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 90,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 91,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 92,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 93,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 94,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 95,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Cash Value",
+        "remarks": "[FAILED] Validation failed repairing cash_value"
+    },
+    {
+        "id": 96,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 97,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 98,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 99,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 100,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 101,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 102,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "cash_value",
+        "remarks": "[FAIL]: Repairing code for 2 errors."
+    },
+    {
+        "id": 103,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "Validating scenarios for output"
+    },
+    {
+        "id": 104,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 105,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 106,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 107,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 108,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 109,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 110,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 111,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 112,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 113,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 114,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 115,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 116,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 117,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 118,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 119,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 120,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 121,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 122,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 123,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 124,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 125,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 126,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 127,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 128,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 129,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 130,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 131,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 132,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 133,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 134,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 135,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 136,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 137,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 138,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 139,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 140,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 141,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 142,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 143,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 144,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 145,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 146,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 147,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 148,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 149,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 150,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 151,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 152,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 153,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 154,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 155,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 156,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 157,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 158,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 159,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 160,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 161,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 162,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 163,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 164,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 165,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 166,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 167,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 168,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 169,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 170,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 171,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 172,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 173,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 174,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 175,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 176,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 177,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 178,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 179,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 180,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 181,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 182,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 183,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 184,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 185,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 186,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 187,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 188,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 189,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 190,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 191,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 192,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 193,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 194,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Output",
+        "remarks": "[FAILED] Validation failed repairing output"
+    },
+    {
+        "id": 195,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 196,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 197,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 198,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 199,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 200,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 201,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 202,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 203,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 204,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 205,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 206,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 207,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 1 errors."
+    },
+    {
+        "id": 208,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "output",
+        "remarks": "[FAIL]: Repairing code for 392 mismatches."
+    },
+    {
+        "id": 209,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1791085651/logs/summary.txt"
+    }
+]

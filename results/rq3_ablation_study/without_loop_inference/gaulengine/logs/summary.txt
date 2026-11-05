@@ -1,0 +1,56 @@
+# Summary for output\result_1791085651/gaulengine/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 201
+	- prompt_tokens: 3033573
+	- response_tokens: 490160
+	- total_tokens: 3523733
+	- average_prompt_tokens: 15092.4
+	- average_response_tokens: 2438.61
+	- average_total_tokens: 17531.01
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name After_repair_utilities:
+	- total_rows 2
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'': 2}
+## Sheet_name Cash Value:
+	- total_rows 64
+	- total_unique_modules 2
+	- repair_module_rows 63
+	- repair_modules {'COMPILE_error_repair': 63}
+	- all_modules {'COMPILE_error_repair': 63, 'code_generation': 1}
+## Sheet_name Output:
+	- total_rows 113
+	- total_unique_modules 3
+	- repair_module_rows 112
+	- repair_modules {'COMPILE_error_repair': 56, 'simple_repair': 56}
+	- all_modules {'COMPILE_error_repair': 56, 'simple_repair': 56, 'code_generation': 1}
+## Sheet_name Premium:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 21
+	- total_unique_modules 2
+	- repair_module_rows 9
+	- repair_modules {'semantic_repair_callback': 9}
+	- all_modules {'Code Generation': 12, 'semantic_repair_callback': 9}
+## Overall Repairs: 184
+## Detailed Repairs: {'COMPILE_error_repair': 119, 'simple_repair': 56, 'semantic_repair_callback': 9}
+─────────────────────────
+# Scenarios validation summary
+	-cash_value: 1 -> ['set_0']
+	-output: 1 -> ['set_0']
+	-premium: 0 -> []
+Final status: 1
+─────────────────────────
+[TIME]: Preprocessing time: 978.30 seconds
+[TIME]: Seed Synthesis time: 832.72 seconds
+[TIME]: Validation on scenarios time: 4807.32 seconds
+[TIME]: Total: [978.30, 832.72, 4807.32]

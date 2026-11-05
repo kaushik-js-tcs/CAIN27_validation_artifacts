@@ -1,0 +1,206 @@
+[
+    {
+        "id": 0,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "Execution results folder creation",
+        "remarks": "output/result_1790928443"
+    },
+    {
+        "id": 1,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Total Excel function found: 2"
+    },
+    {
+        "id": 2,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Validated 2 out of 2"
+    },
+    {
+        "id": 3,
+        "ongoing_module": "Preprocessing",
+        "ongoing_sheet": "",
+        "remarks": "Created utility class ExcelUtils.java, with 2 functions"
+    },
+    {
+        "id": 4,
+        "ongoing_module": "Graph Building",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 5,
+        "ongoing_module": "Pseudocode generation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] found 1 blocks."
+    },
+    {
+        "id": 6,
+        "ongoing_module": "Code generation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 7,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "calculator_A_3_F_362",
+        "remarks": "[FAIL]: Repairing code for 960 mismatches."
+    },
+    {
+        "id": 8,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "calculator_A_3_F_362",
+        "remarks": "[FAIL]: Repairing code for 960 mismatches."
+    },
+    {
+        "id": 9,
+        "ongoing_module": "Code Repair",
+        "ongoing_sheet": "calculator_A_3_F_362",
+        "remarks": "[FAIL]: Repairing code for 480 mismatches."
+    },
+    {
+        "id": 10,
+        "ongoing_module": "Code validation",
+        "ongoing_sheet": "calculator_A_3_F_362",
+        "remarks": "[SUCCESS]"
+    },
+    {
+        "id": 11,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 12,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 13,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1790928443/logs/summary.txt"
+    },
+    {
+        "id": 14,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 15,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 16,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 17,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 18,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 19,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 20,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 21,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 22,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 23,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 24,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 25,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 26,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 27,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 28,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 29,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output/result_1790928443/logs/summary.txt"
+    },
+    {
+        "id": 30,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 31,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "[SUCCESS] Passed all scenarios for calculator_A_3_F_362"
+    },
+    {
+        "id": 32,
+        "ongoing_module": "Summarizing Results",
+        "ongoing_sheet": "",
+        "remarks": "Summarize report saved in output\\result_1790928443/logs/summary.txt"
+    },
+    {
+        "id": 33,
+        "ongoing_module": "Scenario Validation",
+        "ongoing_sheet": "Calculator",
+        "remarks": "Validating scenarios for calculator_A_3_F_362"
+    }
+]

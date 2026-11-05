@@ -1,0 +1,43 @@
+# Summary for output\result_1791040173/pmi_db_life/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 7
+	- prompt_tokens: 20175
+	- response_tokens: 10588
+	- total_tokens: 30763
+	- average_prompt_tokens: 2882.14
+	- average_response_tokens: 1512.57
+	- average_total_tokens: 4394.71
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Contractural Interest:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name States_Interest:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 5
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'Code Generation': 5}
+## Overall Repairs: 0
+## Detailed Repairs: {}
+─────────────────────────
+# Scenarios validation summary
+	-contractural_interest: 0 -> []
+	-states_interest: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 173.67 seconds
+[TIME]: Seed Synthesis time: 89.41 seconds
+[TIME]: Validation on scenarios time: 77.89 seconds
+[TIME]: Total: [173.67, 89.41, 77.89]

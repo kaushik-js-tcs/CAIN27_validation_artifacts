@@ -1,0 +1,13 @@
+sheet,col,row,xltype,expected,actual,status,remark,scn_id
+output,A,2,XlNumber,1.0,1.0,MATCH,loop_cell,set_21
+output,A,3,XlNumber,2.0,2.0,MATCH,loop_cell,set_21
+output,A,4,XlNumber,3.0,3.0,MATCH,loop_cell,set_21
+output,B,2,XlNumber,12000.0,12000.0,MATCH,loop_cell,set_21
+output,B,3,XlNumber,12000.0,12000.0,MATCH,loop_cell,set_21
+output,B,4,XlNumber,12000.0,12000.0,MATCH,loop_cell,set_21
+output,C,2,XlNumber,12670.281160396968,12670.281160396968,MATCH,loop_cell,set_21
+output,C,3,XlNumber,26667.30632644278,26667.30632644278,MATCH,loop_cell,set_21
+output,C,4,XlNumber,42130.00293267828,42130.00293267828,MATCH,loop_cell,set_21
+output,D,2,XlNumber,12780.0,12780.0,MATCH,loop_cell,set_21
+output,D,3,XlNumber,12780.0,12780.0,MATCH,loop_cell,set_21
+output,D,4,XlNumber,12780.0,12780.0,MATCH,loop_cell,set_21

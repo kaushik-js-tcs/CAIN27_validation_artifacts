@@ -1,0 +1,57 @@
+# Summary for output\result_1790974739/surrendercharge_freeamount/output/:
+─────────────────────────
+# LLM Token Summary
+	- model: gpt-5.6-sol
+	- total_rows: 20
+	- prompt_tokens: 67729
+	- response_tokens: 33909
+	- total_tokens: 101638
+	- average_prompt_tokens: 3386.45
+	- average_response_tokens: 1695.45
+	- average_total_tokens: 5081.9
+─────────────────────────
+# Sheet wise Summary.
+## Sheet_name Check Amount:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Free Amount:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name MSB:
+	- total_rows 1
+	- total_unique_modules 1
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'code_generation': 1}
+## Sheet_name Surrender Charge:
+	- total_rows 2
+	- total_unique_modules 2
+	- repair_module_rows 0
+	- repair_modules {}
+	- all_modules {'loop_enchancement': 1, 'code_generation': 1}
+## Sheet_name Xlfunc Generation:
+	- total_rows 15
+	- total_unique_modules 2
+	- repair_module_rows 3
+	- repair_modules {'semantic_repair_callback': 3}
+	- all_modules {'Code Generation': 12, 'semantic_repair_callback': 3}
+## Overall Repairs: 3
+## Detailed Repairs: {'semantic_repair_callback': 3}
+─────────────────────────
+# Scenarios validation summary
+	-check_amount: 0 -> []
+	-free_amount: 0 -> []
+	-msb: 0 -> []
+	-surrender_charge_A_26_Q_31: 0 -> []
+Final status: 0
+─────────────────────────
+[TIME]: Preprocessing time: 613.35 seconds
+[TIME]: Seed Synthesis time: 177.58 seconds
+[TIME]: Validation on scenarios time: 110.15 seconds
+[TIME]: Total: [613.35, 177.58, 110.15]

@@ -2,7 +2,7 @@
 
 **These are the results of the A1 implementation** (global agentic repair). They are used for RQ1 (Table III) and for the failure analysis in RQ2 (Table II).
 
-Prompts: [`prompts/A1/`](../../../prompts/A1/README.md). Defect labels: [`analysis/defect_labels.xlsx`](../../../analysis/defect_labels.xlsx).
+Prompts: [`prompts/A1/`](../../../prompts/A1/README.md). Defect labels: [`analysis/Defect_Analysis_RQ2.xlsx`](../../../analysis/Defect_Analysis_RQ2.xlsx).
 
 This artifact contains the evaluation results of the Java programs generated from Excel workbooks
 by the **A1** implementation. Each A1-generated Java program was run on a set of test scenarios,

@@ -1,6 +1,6 @@
 {
   "workbook_id": "mortgage_calculator",
-  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\out_loop\\runs\\mortgage_calculator\\logs\\mortgage_calculator_20261029T065156.jsonl",
+  "run_log": "logs/mortgage_calculator_20261029T065156.jsonl",
   "total_passed_cells": 32612,
   "by_test_set": {
     "set_5": [

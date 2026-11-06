@@ -1,6 +1,6 @@
 {
   "workbook_id": "SurrenderCharge_FreeAmount",
-  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\in_loop\\runs\\SurrenderCharge_FreeAmount\\logs\\SurrenderCharge_FreeAmount_20261026T142149.jsonl",
+  "run_log": "logs/SurrenderCharge_FreeAmount_20261026T142149.jsonl",
   "total_passed_cells": 500,
   "by_test_set": {
     "set_0": [

@@ -1,6 +1,6 @@
 {
   "workbook_id": "sip_cal",
-  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\in_loop\\runs\\sip_cal\\logs\\sip_cal_20261026T142113.jsonl",
+  "run_log": "logs/sip_cal_20261026T142113.jsonl",
   "total_passed_cells": 1528,
   "by_test_set": {
     "set_0": [

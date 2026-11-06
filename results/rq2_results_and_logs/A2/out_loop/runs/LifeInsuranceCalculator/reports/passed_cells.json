@@ -1,6 +1,6 @@
 {
   "workbook_id": "LifeInsuranceCalculator",
-  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\out_loop\\runs\\LifeInsuranceCalculator\\logs\\LifeInsuranceCalculator_20261026T151029.jsonl",
+  "run_log": "logs/LifeInsuranceCalculator_20261026T151029.jsonl",
   "total_passed_cells": 352554,
   "by_test_set": {
     "set_7": [

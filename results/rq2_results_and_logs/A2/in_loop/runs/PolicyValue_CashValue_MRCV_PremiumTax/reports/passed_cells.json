@@ -1,6 +1,6 @@
 {
   "workbook_id": "PolicyValue_CashValue_MRCV_PremiumTax",
-  "run_log": "C:\\Users\\2516310\\Desktop\\Namans_tool\\new_runs\\in_loop\\runs\\PolicyValue_CashValue_MRCV_PremiumTax\\logs\\PolicyValue_CashValue_MRCV_PremiumTax_20261026T130900.jsonl",
+  "run_log": "logs/PolicyValue_CashValue_MRCV_PremiumTax_20261026T130900.jsonl",
   "total_passed_cells": 42216,
   "by_test_set": {
     "set_0": [

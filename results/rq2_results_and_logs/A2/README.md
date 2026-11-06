@@ -4,7 +4,7 @@ Results of baseline **A2** for the _Validation-Driven Excel-to-Java Synthesis wi
 
 A2 follows role-based multi-agent frameworks (MetaGPT, ChatDev, Self-Collaboration). An orchestrator coordinates extraction, semantic analysis, formula grouping, Java generation, testing and repair agents. It used the same GPT-5.6-sol deployment, workbooks, scenario partition, Excel-derived oracle, matching predicate, Java environment and budget as the other approaches.
 
-Prompt templates (synthesis S1–S6, repair R0–R4) are in [`prompts/A2/Prompt_Templates.md`](../../../prompts/A2/Prompt_Templates.md). The defect labels for A2's held-out failures (RQ2, Table II) are in [`analysis/defect_labels.xlsx`](../../../analysis/defect_labels.xlsx).
+Prompt templates (synthesis S1–S6, repair R0–R4) are in [`prompts/A2/Prompt_Templates.md`](../../../prompts/A2/Prompt_Templates.md). The defect labels for A2's held-out failures (RQ2, Table II) are in [`analysis/Defect_Analysis_RQ2.xlsx`](../../../analysis/Defect_Analysis_RQ2.xlsx).
 
 ## Evaluation settings
 

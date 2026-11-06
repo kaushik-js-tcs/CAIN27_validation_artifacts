@@ -1,6 +1,6 @@
 {
   "workbook_id": "RiderQuarterlyFeeCalc",
-  "run_log": "C:\\Users\\2516310\\Desktop\\workspace\\namans_tool\\new_runs\\out_loop\\runs\\RiderQuarterlyFeeCalc\\logs\\RiderQuarterlyFeeCalc_20261104T084542.jsonl",
+  "run_log": "logs/RiderQuarterlyFeeCalc_20261104T084542.jsonl",
   "total_passed_cells": 1255,
   "by_test_set": {
     "set_4": [

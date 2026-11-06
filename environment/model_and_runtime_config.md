@@ -21,6 +21,19 @@ This file lists the shared setup and the approach-specific settings used for all
 | Hard-coding rule     | Every approach is told not to hard-code scenario inputs or expected outputs                                                                             |
 | Runs                 | One run per approach and workbook; LLM outputs are non-deterministic                                                                                    |
 
+### Hardware
+
+All approaches, including the ablation variants, were run on the same machine. LLM inference ran remotely on Azure OpenAI. Workbook analysis, Java compilation and execution, and Excel recalculation ran locally.
+
+| Component | Specification                                            |
+| --------- | -------------------------------------------------------- |
+| Processor | AMD Ryzen 7 PRO 7840HS w/ Radeon 780M Graphics, 3.80 GHz |
+| Memory    | 32 GB RAM, 5600 MT/s                                     |
+| Storage   | 954 GB SSD                                               |
+| OS        | Windows 11 Pro, version 25H2 (OS build 26200.9711)       |
+
+The time figures reported in Table IV (and in the `summary.txt`, `final_logs.json` and `summary.json` files) are wall-clock times on this machine. They include the latency of the remote LLM calls.
+
 ---
 
 ## 2. Approach-specific settings

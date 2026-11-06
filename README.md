@@ -175,6 +175,4 @@ Each results folder has its own `README.md` describing its file formats.
 | II                  | A1, A2        | `analysis/Defect_Analysis_RQ2.xlsx`                                                                                                                                                                         |
 | IV                  | Ours variants | `results/rq3_ablation_study/<variant>/<wb>/logs/summary.txt` → `Final status`, `total_tokens`, `Overall Repairs`, `[TIME]` lines; full-pipeline reference from `results/rq1_results_and_logs/Ours/in_loop/` |
 
-> **A2 logs:** Each A2 workbook folder contains the single event log from which `summary.json` and `reports/` were produced, i.e. the reported run.
-
 ---

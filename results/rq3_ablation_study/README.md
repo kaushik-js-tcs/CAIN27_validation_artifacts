@@ -103,7 +103,7 @@ Repeated regions are not lifted into loops by the loop-aware IR; formulas are sy
 ## Folder structure
 
 ```
-rq3-ablation/
+rq3_ablation_study/
 ├── without_fault_localization/<workbook>/
 │   ├── logs/
 │   │   ├── summary.txt          tokens, repair counts by type, per-block validation, timings

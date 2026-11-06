@@ -80,7 +80,7 @@ The table also maps each paper ID (A–H) to its folder name. Folder names diffe
 
 ## Results
 
-### RQ1: Functional fidelity and robustness (Table III)
+### RQ1: Functional fidelity and robustness (Table II)
 
 In the table, W is WBPass: 1 if the approach passes every in-loop scenario of the workbook. P/F is the number of passed/failed held-out scenarios. NA means no program was produced because the workbook exceeded the model context.
 
@@ -100,7 +100,7 @@ All values in this table can be reproduced from the files in this repository (se
 
 Held-out pass rates were **47.7% (A1)**, **89.2% (A2)** and **100% (Ours)**.
 
-### RQ2: Failure characteristics (Table II)
+### RQ2: Failure characteristics (Table III)
 
 The 79 baseline held-out failures trace back to just **13 root defects**: 7 in A1 and 6 in A2. Per-failure labels are in [`analysis/Defect_Analysis_RQ2.xlsx`](analysis/Defect_Analysis_RQ2.xlsx); the underlying failing cells are in the A1 comparison reports and the A2 `reports/failed_cells.json` under [`results/rq2_results_and_logs/`](results/rq2_results_and_logs/).
 

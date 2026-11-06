@@ -68,8 +68,8 @@ For each scenario, its inputs are applied to the workbook and Microsoft Excel re
 | D   | `PMI_DB_Life`                           | 73            | 2                 | 9            | 0          | 30        | 6        | 24        |
 | E   | `RiderQuarterlyFeeCalc`                 | 88            | 6                 | 8            | 0          | 20        | 4        | 16        |
 | F   | `PolicyValue_CashValue_MRCV_PremiumTax` | 7,036         | 10                | 4            | 6,704      | 28        | 6        | 22        |
-| G   | `LifeInsuranceCalculator`               | 16,464        | 8                 | 5            | 15,311     | 34        | 7        | 27        |
-| H   | `gaulEngine`                            | 61,667        | 3                 | 4            | 57,431     | 40        | 8        | 32        |
+| G   | `LifeInsuranceCalculator`               | 16,464        | 3                 | 4            | 15,311     | 34        | 7        | 27        |
+| H   | `gaulEngine`                            | 61,667        | 8                 | 5            | 57,431     | 40        | 8        | 32        |
 |     | **Total**                               | **89,568**    | –                 | –            | **83,549** | **221**   | **45**   | **176**   |
 
 The table also maps each paper ID (A–H) to its folder name. Folder names differ in capitalization between approaches. For example, the Ours and ablation results use lowercase names such as `gaulengine`.
